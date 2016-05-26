@@ -1,0 +1,433 @@
+"PresidentsCupInternational_RANKTHISWEEK_2016","PresidentsCupInternational_RANKLASTWEEK_2016","PresidentsCupInternational_PLAYERNAME_2016","PresidentsCupInternational_EVENTS_2016","PresidentsCupInternational_AVGPOINTS_2016","PresidentsCupInternational_TOTALPOINTS_2016","PresidentsCupInternational_POINTSLOST_2016","PresidentsCupInternational_POINTSGAINED_2016","stat_name","year"
+1,1,"Jason Day",41,11.9,488.01,-123.6,174.03,"PresidentsCupInternational",2016
+2,2,"Adam Scott",43,6.92,297.49,-69.5,180.3,"PresidentsCupInternational",2016
+3,3,"Branden Grace",52,5.37,279.38,-56.93,120.8,"PresidentsCupInternational",2016
+4,4,"Louis Oosthuizen",47,4.97,233.62,-56.02,102.72,"PresidentsCupInternational",2016
+5,5,"Hideki Matsuyama",52,4.55,236.6,-73.32,101.96,"PresidentsCupInternational",2016
+6,6,"Charl Schwartzel",52,3.71,192.8,-46.25,88.03,"PresidentsCupInternational",2016
+7,7,"Byeong Hun An",52,3.43,178.12,-41.17,56.84,"PresidentsCupInternational",2016
+8,8,"Marc Leishman",50,2.9,144.76,-48.47,29.5,"PresidentsCupInternational",2016
+9,11,"Danny Lee",52,2.77,144.28,-37.38,44.98,"PresidentsCupInternational",2016
+10,9,"Emiliano Grillo",52,2.67,139,-38.61,23.98,"PresidentsCupInternational",2016
+11,10,"Kiradech Aphibarnrat",52,2.62,136.26,-36.29,26.3,"PresidentsCupInternational",2016
+12,13,"KT Kim",52,2.53,131.48,-25.6,48.11,"PresidentsCupInternational",2016
+13,12,"Thongchai Jaidee",52,2.45,127.19,-52.94,12.87,"PresidentsCupInternational",2016
+14,14,"Anirban Lahiri",52,2.28,118.5,-41.83,26.73,"PresidentsCupInternational",2016
+15,17,"Fabian Gomez",52,2.16,112.52,-20.77,69.61,"PresidentsCupInternational",2016
+16,15,"Jaco Van Zyl",40,2.16,86.41,-18.84,22.11,"PresidentsCupInternational",2016
+17,16,"Marcus Fraser",42,2.07,87.03,-13.44,49.33,"PresidentsCupInternational",2016
+18,19,"Lee Soo Min",40,1.98,79.07,-6.29,55.95,"PresidentsCupInternational",2016
+19,18,"Matt Jones",52,1.85,96.35,-37.32,10.87,"PresidentsCupInternational",2016
+20,20,"Scott Hend",52,1.79,93.08,-22,40.63,"PresidentsCupInternational",2016
+21,21,"Yuta Ikeda",52,1.75,91.23,-24.13,25.47,"PresidentsCupInternational",2016
+22,22,"Shingo Katayama",43,1.71,73.63,-21.08,3.29,"PresidentsCupInternational",2016
+23,39,"Wang Jeunghun",50,1.64,81.92,-13.38,47.09,"PresidentsCupInternational",2016
+24,23,"George Coetzee",50,1.62,81.07,-30.08,28.01,"PresidentsCupInternational",2016
+25,24,"Brandon Stone",51,1.55,79.22,-9.92,51.51,"PresidentsCupInternational",2016
+26,26,"Dean Burmester",47,1.52,71.5,-15.58,29.47,"PresidentsCupInternational",2016
+27,27,"John Senden",52,1.49,77.64,-37.89,19.25,"PresidentsCupInternational",2016
+28,25,"Steven Bowditch",52,1.39,72.52,-36.23,7.83,"PresidentsCupInternational",2016
+29,30,"KJ Choi",46,1.38,63.28,-15.88,51.5,"PresidentsCupInternational",2016
+30,28,"Hideto Tanihara",48,1.38,66.01,-18.48,21.32,"PresidentsCupInternational",2016
+31,29,"Cameron Smith",43,1.33,57.34,-19.08,12.52,"PresidentsCupInternational",2016
+32,31,"Yoshinori Fujimoto",50,1.29,64.71,-19.01,7.83,"PresidentsCupInternational",2016
+33,32,"Miguel Tabuena",41,1.29,53.02,-7.95,26.56,"PresidentsCupInternational",2016
+34,33,"Prayad Marksaeng",52,1.28,66.62,-22.97,9.23,"PresidentsCupInternational",2016
+35,34,"Younghan Song",52,1.28,66.55,-12.26,32.29,"PresidentsCupInternational",2016
+36,35,"Graham DeLaet",47,1.27,59.75,-21.67,31.11,"PresidentsCupInternational",2016
+37,36,"Yusaku Miyazato",52,1.27,66.05,-20.3,2.57,"PresidentsCupInternational",2016
+38,37,"Hiroshi Iwata",52,1.22,63.34,-28.27,20.27,"PresidentsCupInternational",2016
+39,38,"Hao Tong Li",52,1.19,62.11,-15.63,26,"PresidentsCupInternational",2016
+40,40,"David Hearn",52,1.14,59.07,-23.47,13.16,"PresidentsCupInternational",2016
+41,41,"Ryo Ishikawa",52,1.13,58.68,-22.84,NA,"PresidentsCupInternational",2016
+42,42,"Si Woo Kim",52,1.1,57.46,-8.55,34.56,"PresidentsCupInternational",2016
+43,43,"Sangmoon Bae",42,1.1,46.13,-26.04,NA,"PresidentsCupInternational",2016
+44,45,"Nathan Holman",44,1.05,46.19,-9.55,12.33,"PresidentsCupInternational",2016
+45,44,"Satoshi Kodaira",46,1.03,47.45,-17.62,1.25,"PresidentsCupInternational",2016
+46,58,"Retief Goosen",48,1,48.13,-14.81,25.66,"PresidentsCupInternational",2016
+47,46,"SSP Chawrasia",48,1,47.81,-13.3,22.3,"PresidentsCupInternational",2016
+48,47,"Tomohiro Kondo",47,0.99,46.4,-19.15,9.6,"PresidentsCupInternational",2016
+49,48,"Toshinori Muto",47,0.96,45.13,-15.93,3.31,"PresidentsCupInternational",2016
+50,49,"Fabrizio Zanotti",49,0.94,46.12,-25.61,7.93,"PresidentsCupInternational",2016
+51,50,"Sung Kang",52,0.93,48.2,-8.79,24.6,"PresidentsCupInternational",2016
+52,51,"Ryan Fox",41,0.92,37.58,-13.76,4.02,"PresidentsCupInternational",2016
+53,52,"WC Liang",42,0.91,38.36,-12.94,11.2,"PresidentsCupInternational",2016
+54,53,"Prom Meesawat",50,0.91,45.29,-16.84,8.2,"PresidentsCupInternational",2016
+55,54,"Koumei Oda",52,0.9,46.73,-27.49,NA,"PresidentsCupInternational",2016
+56,56,"Daisuke Kataoka",51,0.9,45.77,-12.65,12.86,"PresidentsCupInternational",2016
+57,55,"Adam Hadwin",52,0.9,46.64,-16.81,21.83,"PresidentsCupInternational",2016
+58,57,"Junggon Hwang",52,0.89,46.39,-13.3,1.21,"PresidentsCupInternational",2016
+59,59,"Thomas Aiken",52,0.87,45.37,-18.84,6.42,"PresidentsCupInternational",2016
+60,63,"Hyung Sung Kim",52,0.85,44.04,-18.95,7.49,"PresidentsCupInternational",2016
+61,60,"Haydn Porteous",52,0.84,43.7,-10.59,29.39,"PresidentsCupInternational",2016
+62,61,"Kyoung Hoon Lee",52,0.83,43.35,-15.9,NA,"PresidentsCupInternational",2016
+63,62,"Wu Ashun",47,0.82,38.52,-13.46,6.67,"PresidentsCupInternational",2016
+64,64,"Shaun Norris",52,0.81,42.16,-6.15,18,"PresidentsCupInternational",2016
+65,65,"Thanyakorn Khrongpha",52,0.8,41.8,-11.9,9.46,"PresidentsCupInternational",2016
+66,70,"Trevor Fisher Jr",48,0.79,38.15,-12.47,14.81,"PresidentsCupInternational",2016
+67,74,"Jhonattan Vegas",52,0.79,40.92,-10.86,19.85,"PresidentsCupInternational",2016
+68,66,"Geoff Ogilvy",45,0.79,35.37,-22.37,2.66,"PresidentsCupInternational",2016
+69,79,"Camilo Villegas",52,0.79,40.86,-19.58,11.2,"PresidentsCupInternational",2016
+70,69,"Brad Kennedy",49,0.78,38.33,-14.62,7,"PresidentsCupInternational",2016
+71,68,"Brendon de Jonge",52,0.78,40.52,-24.8,2.98,"PresidentsCupInternational",2016
+72,82,"Jason Scrivener",45,0.78,35.05,-6.4,15.52,"PresidentsCupInternational",2016
+73,67,"Ernie Els",52,0.78,40.44,-23.01,13.47,"PresidentsCupInternational",2016
+74,76,"Rory Sabbatini",48,0.77,36.91,-18.31,1.46,"PresidentsCupInternational",2016
+75,73,"Brett Rumford",40,0.77,30.71,-7.59,11.71,"PresidentsCupInternational",2016
+76,75,"Phachara Khongwatmai",40,0.77,30.68,-4.2,5.4,"PresidentsCupInternational",2016
+77,72,"Vijay Singh",48,0.75,36.21,-11.68,12.64,"PresidentsCupInternational",2016
+78,77,"Dylan Frittelli",47,0.75,35.34,-2.88,21.63,"PresidentsCupInternational",2016
+79,71,"Richard Green",47,0.75,35.12,-17.47,NA,"PresidentsCupInternational",2016
+80,78,"Seung Yul Noh",52,0.74,38.57,-21.26,13.61,"PresidentsCupInternational",2016
+81,80,"Katsumasa Miyamoto",50,0.72,36.17,-15.17,4.26,"PresidentsCupInternational",2016
+82,81,"Aaron Baddeley",52,0.71,36.83,-9.73,24.75,"PresidentsCupInternational",2016
+83,83,"Shugo Imahira",40,0.71,28.25,-5.81,6.03,"PresidentsCupInternational",2016
+84,84,"Danny Chia",52,0.7,36.54,-10.14,10.11,"PresidentsCupInternational",2016
+85,86,"Brad Fritsch",48,0.7,33.6,-6.93,21,"PresidentsCupInternational",2016
+86,85,"Angelo Que",49,0.7,34.09,-10.73,8.79,"PresidentsCupInternational",2016
+87,87,"Ryutaro Nagano",48,0.7,33.38,-7.15,12.02,"PresidentsCupInternational",2016
+88,94,"Dawie van der Walt",52,0.69,36.09,-13.74,5.21,"PresidentsCupInternational",2016
+89,88,"I J Jang",50,0.69,34.38,-13.18,3.4,"PresidentsCupInternational",2016
+90,141,"Park Sangeon",50,0.69,34.31,-13.19,12.51,"PresidentsCupInternational",2016
+91,89,"Keith Horne",52,0.68,35.51,-11.72,11.37,"PresidentsCupInternational",2016
+92,91,"Zander Lombard",40,0.67,26.84,-2.65,17.71,"PresidentsCupInternational",2016
+93,93,"Matthew Griffin",49,0.67,32.64,-5.9,21.93,"PresidentsCupInternational",2016
+94,90,"Taichi Teshima",46,0.66,30.51,-13.27,2.16,"PresidentsCupInternational",2016
+95,95,"Nick Taylor",52,0.64,33.39,-9.93,15.28,"PresidentsCupInternational",2016
+96,136,"Adilson da Silva",52,0.64,33.35,-9.57,14.78,"PresidentsCupInternational",2016
+97,92,"Tim Clark",40,0.64,25.48,-22.66,3.38,"PresidentsCupInternational",2016
+98,96,"Chapchai Nirat",40,0.63,25.24,-9.9,6.94,"PresidentsCupInternational",2016
+99,97,"Josh Geary",40,0.63,25.01,-6.01,8.67,"PresidentsCupInternational",2016
+100,98,"Michio Matsumura",49,0.61,30.11,-10.68,NA,"PresidentsCupInternational",2016
+101,100,"Rod Pampling",52,0.61,31.67,-13.97,1.2,"PresidentsCupInternational",2016
+102,99,"Hiroyuki Fujita",52,0.61,31.57,-18.06,3.08,"PresidentsCupInternational",2016
+103,101,"Felipe Aguilar",52,0.61,31.49,-13.72,17.28,"PresidentsCupInternational",2016
+104,102,"Christiaan Bezuidenhout",40,0.6,24.13,-1.41,23.78,"PresidentsCupInternational",2016
+105,103,"Rodolfo Cazaubon",42,0.59,24.73,-4.78,9.6,"PresidentsCupInternational",2016
+106,105,"Cheng Tsung Pan",40,0.59,23.41,-5.14,3.8,"PresidentsCupInternational",2016
+107,106,"Matthew Millar",40,0.58,23.35,-4.37,5.74,"PresidentsCupInternational",2016
+108,104,"Wade Ormsby",52,0.58,30.23,-14.26,6.47,"PresidentsCupInternational",2016
+109,111,"Hyunwoo Ryu",52,0.58,29.91,-9.16,7.6,"PresidentsCupInternational",2016
+110,108,"Whee Kim",52,0.56,29.36,-7.63,11.06,"PresidentsCupInternational",2016
+111,107,"Andrew Dodt",40,0.56,22.58,-12.28,NA,"PresidentsCupInternational",2016
+112,109,"Jean Hugo",46,0.55,25.5,-10.68,2.42,"PresidentsCupInternational",2016
+113,112,"Tyrone Van Aswegen",52,0.55,28.64,-7.87,9.9,"PresidentsCupInternational",2016
+114,110,"Darren Fichardt",52,0.55,28.62,-12.77,6.94,"PresidentsCupInternational",2016
+115,120,"Angel Cabrera",48,0.54,26.14,-20.94,7.65,"PresidentsCupInternational",2016
+116,113,"Stuart Appleby",40,0.54,21.7,-11.88,13.99,"PresidentsCupInternational",2016
+117,115,"Yuki Inamori",40,0.54,21.62,-6,2.83,"PresidentsCupInternational",2016
+118,116,"Masahiro Kawamura",52,0.54,28.06,-6.75,10.53,"PresidentsCupInternational",2016
+119,117,"Wen Tang Lin",40,0.54,21.49,-5.89,3.6,"PresidentsCupInternational",2016
+120,114,"Thaworn Wiratchant",48,0.54,25.75,-12.48,1.26,"PresidentsCupInternational",2016
+121,118,"Jacques Blaauw",47,0.53,25.1,-10.96,10.43,"PresidentsCupInternational",2016
+122,122,"Chiragh Kumar",40,0.53,21.16,-4.42,1.54,"PresidentsCupInternational",2016
+123,121,"Adam Bland",49,0.53,25.83,-10.66,1.21,"PresidentsCupInternational",2016
+124,123,"YE Yang",46,0.53,24.2,-8.79,NA,"PresidentsCupInternational",2016
+125,119,"Sutijet Kooratanapis",41,0.53,21.53,-2.77,14.4,"PresidentsCupInternational",2016
+126,124,"Jinho Choi",40,0.52,20.73,-2.81,11.59,"PresidentsCupInternational",2016
+127,125,"Mike Hendry",49,0.51,25.23,-8.86,8.74,"PresidentsCupInternational",2016
+128,127,"Andres Romero",46,0.51,23.6,-10.84,4.96,"PresidentsCupInternational",2016
+129,126,"Justin Walters",52,0.51,26.59,-5.04,17.46,"PresidentsCupInternational",2016
+130,128,"Sam Brazel",40,0.5,20.16,-5.05,4.68,"PresidentsCupInternational",2016
+131,129,"Rashid Khan",40,0.5,20.05,-8.66,4.49,"PresidentsCupInternational",2016
+132,144,"Vaughn Groenewald",50,0.5,24.95,-6.7,4.33,"PresidentsCupInternational",2016
+133,130,"Nick Cullen",40,0.5,19.93,-7.26,1.85,"PresidentsCupInternational",2016
+134,131,"Terry Pilkadaris",52,0.5,25.75,-10.14,2.89,"PresidentsCupInternational",2016
+135,132,"Rhein Gibson",52,0.49,25.5,-7.99,2.77,"PresidentsCupInternational",2016
+136,134,"Rahil Gangjee",40,0.49,19.47,-6.02,8.92,"PresidentsCupInternational",2016
+137,135,"S Chikkarangappa",40,0.49,19.41,-3.03,9.78,"PresidentsCupInternational",2016
+138,137,"Thitiphan Chuayprako",40,0.49,19.42,-1.52,15.91,"PresidentsCupInternational",2016
+139,133,"Carlos Ortiz",52,0.48,25.15,-16.38,3.93,"PresidentsCupInternational",2016
+140,138,"Won Joon Lee",40,0.48,19.17,-3.95,4.2,"PresidentsCupInternational",2016
+141,140,"Jang Dong Kyu",50,0.47,23.72,-14.34,NA,"PresidentsCupInternational",2016
+142,143,"Piya Swangarunporn",40,0.47,18.93,-1.34,14.4,"PresidentsCupInternational",2016
+143,139,"Tadahiro Takayama",47,0.47,22.23,-8.42,4.96,"PresidentsCupInternational",2016
+144,142,"Atiwit Janewattanano",46,0.47,21.53,-6.62,4.98,"PresidentsCupInternational",2016
+145,146,"Mardan Mamat",48,0.45,21.66,-7.64,3.68,"PresidentsCupInternational",2016
+146,145,"Ryuichi Oda",46,0.45,20.72,-8.4,NA,"PresidentsCupInternational",2016
+147,154,"Jaebum Park",52,0.45,23.38,-6.81,3.31,"PresidentsCupInternational",2016
+148,147,"Netipong Sritonginn",40,0.45,17.97,-2.58,2.85,"PresidentsCupInternational",2016
+149,166,"Ockert Strydom",40,0.44,17.68,-1.91,9.41,"PresidentsCupInternational",2016
+150,149,"Gavin Kyle Green",40,0.44,17.63,-2.61,13,"PresidentsCupInternational",2016
+151,151,"DH Lee",49,0.44,21.38,-7.05,NA,"PresidentsCupInternational",2016
+152,148,"Hur Inhoi",40,0.44,17.44,-13.15,NA,"PresidentsCupInternational",2016
+153,150,"Jaco Ahlers",45,0.43,19.4,-11.68,NA,"PresidentsCupInternational",2016
+154,152,"Sebastian Munoz",40,0.42,16.94,-0.45,15.98,"PresidentsCupInternational",2016
+155,153,"Peter Senior",40,0.42,16.81,-2.09,2.9,"PresidentsCupInternational",2016
+156,156,"Danthai Boonma",40,0.42,16.63,-3.32,NA,"PresidentsCupInternational",2016
+157,157,"P Tangkamolpraser",52,0.41,21.44,-7.51,11.48,"PresidentsCupInternational",2016
+158,155,"Hennie Otto",48,0.41,19.72,-13.25,1.47,"PresidentsCupInternational",2016
+159,158,"Aron Price",49,0.41,20.09,-5.41,5.64,"PresidentsCupInternational",2016
+160,159,"Greg Chalmers",52,0.41,21.09,-11.52,3.73,"PresidentsCupInternational",2016
+161,160,"Siddikur Rahman",40,0.4,16.13,-7.23,NA,"PresidentsCupInternational",2016
+162,161,"Atomu Shigenaga",40,0.4,15.8,-4.41,5.72,"PresidentsCupInternational",2016
+163,162,"Shunsuke Sonoda",51,0.39,20.07,-4.55,9.92,"PresidentsCupInternational",2016
+164,163,"Brendan Jones",44,0.39,17.08,-6.1,2.16,"PresidentsCupInternational",2016
+165,165,"Azuma Yano",46,0.39,17.75,-2.71,10.11,"PresidentsCupInternational",2016
+166,164,"Richard Sterne",45,0.38,17.29,-10.12,8.46,"PresidentsCupInternational",2016
+167,169,"Bryden Macpherson",50,0.38,19.08,-5.97,NA,"PresidentsCupInternational",2016
+168,174,"Rohan Blizard",40,0.38,15.24,-3.54,NA,"PresidentsCupInternational",2016
+169,167,"Scott Vincent",40,0.38,15.2,-0.57,11.57,"PresidentsCupInternational",2016
+170,170,"Shubhankar Sharma",40,0.38,15.06,-2.72,7.48,"PresidentsCupInternational",2016
+171,171,"Jbe Kruger",52,0.38,19.53,-11.02,4.37,"PresidentsCupInternational",2016
+172,172,"Zecheng Dou",40,0.37,14.97,-3.32,2.04,"PresidentsCupInternational",2016
+173,193,"Fredrick van Rooyen",40,0.37,14.95,-5.31,4.15,"PresidentsCupInternational",2016
+174,173,"Shiv Kapur",52,0.37,19.38,-6.72,12.04,"PresidentsCupInternational",2016
+175,168,"Antonio Lascuna",40,0.37,14.79,-9.34,4.95,"PresidentsCupInternational",2016
+176,176,"Itthipat Buranatanya",40,0.37,14.75,-2.62,7.44,"PresidentsCupInternational",2016
+177,175,"Junwon Park",40,0.37,14.73,-4.14,9.06,"PresidentsCupInternational",2016
+178,182,"Lucas Lee",42,0.37,15.34,-5.79,1.48,"PresidentsCupInternational",2016
+179,177,"Chinnarat Phadungsil",42,0.37,15.33,-2.59,NA,"PresidentsCupInternational",2016
+180,179,"Richard Lee",40,0.36,14.37,-6.93,3.86,"PresidentsCupInternational",2016
+181,206,"Merrick Bremner",52,0.36,18.68,-8.01,5.74,"PresidentsCupInternational",2016
+182,183,"Shintaro Kobayashi",40,0.36,14.32,-1.61,8.96,"PresidentsCupInternational",2016
+183,181,"Cameron Percy",47,0.35,16.65,-8.69,1.2,"PresidentsCupInternational",2016
+184,180,"Kazuhiro Yamashita",47,0.35,16.65,-8.9,2.45,"PresidentsCupInternational",2016
+185,178,"Danie van Tonder",46,0.35,16.24,-14.14,1.32,"PresidentsCupInternational",2016
+186,185,"Julian Etulain",52,0.35,18.28,-6.09,9.6,"PresidentsCupInternational",2016
+187,186,"Kodai Ichihara",45,0.35,15.74,-4.04,3.52,"PresidentsCupInternational",2016
+188,184,"David Bransdon",40,0.35,13.98,-5.98,NA,"PresidentsCupInternational",2016
+189,210,"Anthony Michael",40,0.35,13.92,-1.2,10.48,"PresidentsCupInternational",2016
+190,191,"Jordan Sherratt",41,0.34,14.14,-2.12,4.5,"PresidentsCupInternational",2016
+191,188,"Daniel Fox",40,0.34,13.73,-2.98,NA,"PresidentsCupInternational",2016
+192,187,"Juvic Pagunsan",50,0.34,17.08,-6.81,4.41,"PresidentsCupInternational",2016
+193,207,"Tano Goya",46,0.34,15.7,-5.68,2.58,"PresidentsCupInternational",2016
+194,189,"Rafael Campos",40,0.34,13.55,-2.62,5.41,"PresidentsCupInternational",2016
+195,190,"Seunghyuk Kim",52,0.33,17.14,-14.34,1.84,"PresidentsCupInternational",2016
+196,194,"Garth Mulroy",43,0.33,14.15,-5.33,3.54,"PresidentsCupInternational",2016
+197,195,"Abraham Ancer",43,0.33,14.12,-4,2.49,"PresidentsCupInternational",2016
+198,192,"Mark Williams",44,0.33,14.43,-2.19,8.33,"PresidentsCupInternational",2016
+199,285,"Rourke Van der Spuy",40,0.33,13.07,-1.49,7.28,"PresidentsCupInternational",2016
+200,196,"Xinjun Zhang",40,0.32,12.95,-6.2,NA,"PresidentsCupInternational",2016
+201,201,"Lyle Rowe",49,0.32,15.85,-3.41,14,"PresidentsCupInternational",2016
+202,197,"Steven Alker",50,0.32,16.13,-7.59,7.44,"PresidentsCupInternational",2016
+203,198,"Cho Minjun",52,0.32,16.77,-7.48,NA,"PresidentsCupInternational",2016
+204,200,"James Nitties",52,0.32,16.7,-6.03,2.74,"PresidentsCupInternational",2016
+205,NA,"Titch Moore",51,0.32,16.35,-4.2,14,"PresidentsCupInternational",2016
+206,222,"Puma Dominguez",40,0.32,12.78,-1.89,8.04,"PresidentsCupInternational",2016
+207,202,"Toru Taniguchi",40,0.32,12.76,-6.06,NA,"PresidentsCupInternational",2016
+208,203,"Scott Arnold",49,0.32,15.62,-5.79,NA,"PresidentsCupInternational",2016
+209,204,"Chris Swanepoel",46,0.32,14.63,-3.86,3.76,"PresidentsCupInternational",2016
+210,199,"Yoshitaka Takeya",49,0.32,15.55,-10.15,NA,"PresidentsCupInternational",2016
+211,205,"Nicholas Fung",51,0.32,16.15,-4.19,1.91,"PresidentsCupInternational",2016
+212,211,"Shunya Takeyasu",40,0.31,12.48,-0.14,12.62,"PresidentsCupInternational",2016
+213,209,"Panuphol Pittayarat",48,0.31,14.9,-4.52,2.51,"PresidentsCupInternational",2016
+214,212,"Himmat Rai",40,0.31,12.36,-1.31,1.51,"PresidentsCupInternational",2016
+215,208,"SJ Park",45,0.31,13.86,-8.36,NA,"PresidentsCupInternational",2016
+216,213,"Jyoti Randhawa",40,0.3,12.11,-5.99,NA,"PresidentsCupInternational",2016
+217,215,"Ippei Koike",40,0.3,12.06,-3.49,1.75,"PresidentsCupInternational",2016
+218,214,"Steve Allan",52,0.3,15.66,-6.04,1.61,"PresidentsCupInternational",2016
+219,216,"Sebastian Vazquez",42,0.29,12.37,-3.02,2.89,"PresidentsCupInternational",2016
+220,217,"Lee Taehee",40,0.29,11.58,-5.13,1.56,"PresidentsCupInternational",2016
+221,273,"Kristopher Mueck",40,0.29,11.47,-2.73,5.6,"PresidentsCupInternational",2016
+222,218,"Scott Strange",52,0.29,14.9,-6.41,2.45,"PresidentsCupInternational",2016
+223,246,"Kyongjun Moon",41,0.29,11.71,-4.5,2.09,"PresidentsCupInternational",2016
+224,219,"Tjaart van der Walt",40,0.28,11.36,-4.96,1.3,"PresidentsCupInternational",2016
+225,220,"Mithun Perera",40,0.28,11.32,-4.89,NA,"PresidentsCupInternational",2016
+226,221,"Taylor Pendrith",40,0.28,11.32,-2.28,3.78,"PresidentsCupInternational",2016
+227,329,"Tim Wilkinson",52,0.28,14.48,-4.66,10.07,"PresidentsCupInternational",2016
+228,223,"Arjun Atwal",40,0.28,11,-4.06,2.47,"PresidentsCupInternational",2016
+229,225,"Jacques Kruyswijk",40,0.27,10.9,-1.8,5.59,"PresidentsCupInternational",2016
+230,226,"Suradit Yongcharoenchai",40,0.27,10.88,-0.64,9.1,"PresidentsCupInternational",2016
+231,224,"Geoff Drakeford",40,0.27,10.87,-3.42,NA,"PresidentsCupInternational",2016
+232,227,"Kim Taehoon",40,0.27,10.69,-3.37,2.76,"PresidentsCupInternational",2016
+233,251,"Sanghee Lee",52,0.27,13.88,-7.8,2.09,"PresidentsCupInternational",2016
+234,229,"Hung Chienyao",46,0.27,12.25,-3.75,2.08,"PresidentsCupInternational",2016
+235,305,"Lee Changwoo",40,0.27,10.66,-0.88,9.25,"PresidentsCupInternational",2016
+236,230,"Sean Riordan",40,0.27,10.65,-3.35,NA,"PresidentsCupInternational",2016
+237,231,"Poom Saksansin",49,0.27,13.05,-2.93,7.73,"PresidentsCupInternational",2016
+238,228,"Daniel Gaunt",51,0.26,13.5,-6.63,NA,"PresidentsCupInternational",2016
+239,232,"Alexandre Rocha",40,0.26,10.51,-2.56,3.32,"PresidentsCupInternational",2016
+240,235,"Nirun Sae Ueng",40,0.26,10.3,-2.51,2.52,"PresidentsCupInternational",2016
+241,253,"Christiaan Basson",51,0.26,13.11,-3.97,4.14,"PresidentsCupInternational",2016
+242,233,"Rattanon Wannasrichan",48,0.26,12.32,-4.98,NA,"PresidentsCupInternational",2016
+243,234,"Namchoak Tantipokakul",48,0.25,12.15,-2.93,4.92,"PresidentsCupInternational",2016
+244,237,"Scott Barr",47,0.25,11.86,-3.1,NA,"PresidentsCupInternational",2016
+245,236,"Akio Sadakata",48,0.25,12.1,-4.2,2.1,"PresidentsCupInternational",2016
+246,238,"Jorge Fernandez Valdes",52,0.25,12.93,-5.02,2.24,"PresidentsCupInternational",2016
+247,239,"Panawat Muenlek",40,0.25,9.93,-1.54,6,"PresidentsCupInternational",2016
+248,333,"Daniel Greene",40,0.25,9.84,-1.23,7.26,"PresidentsCupInternational",2016
+249,240,"Chanat Sakulpolphaisan",40,0.25,9.83,-0.97,3.6,"PresidentsCupInternational",2016
+250,242,"Chieh Po Lee",40,0.24,9.71,-1.93,NA,"PresidentsCupInternational",2016
+251,241,"Jordan Zunic",40,0.24,9.67,-3.55,NA,"PresidentsCupInternational",2016
+252,244,"Adam Svensson",40,0.24,9.58,-2.63,1.3,"PresidentsCupInternational",2016
+253,248,"Chan Shihchang",44,0.24,10.44,-8.94,NA,"PresidentsCupInternational",2016
+254,247,"Gaganjeet Bhullar",45,0.24,10.67,-2.58,3.08,"PresidentsCupInternational",2016
+255,245,"Yosuke Tsukada",48,0.24,11.32,-5.68,NA,"PresidentsCupInternational",2016
+256,243,"Rhys West",47,0.23,10.96,-4.2,1.68,"PresidentsCupInternational",2016
+257,250,"Ben Eccles",40,0.23,9.28,-1.32,3.21,"PresidentsCupInternational",2016
+258,252,"Yi Keun Chang",40,0.23,9.25,-1.38,3.48,"PresidentsCupInternational",2016
+259,280,"Andrew Curlewis",49,0.23,11.3,-3.11,4.35,"PresidentsCupInternational",2016
+260,278,"Michael Sim",40,0.23,9.19,-1.29,5.26,"PresidentsCupInternational",2016
+261,249,"Justin Harding",45,0.23,10.32,-6.19,NA,"PresidentsCupInternational",2016
+262,254,"Eugene Wong",40,0.23,9.15,-3.41,NA,"PresidentsCupInternational",2016
+263,283,"Louis de Jager",51,0.23,11.57,-3.4,8.2,"PresidentsCupInternational",2016
+264,256,"Michael Long",40,0.23,9.06,-0.89,7,"PresidentsCupInternational",2016
+265,258,"Curtis Luck",40,0.23,9.05,-0.55,6,"PresidentsCupInternational",2016
+266,255,"Miguel Angel Carballo",52,0.23,11.73,-5.31,NA,"PresidentsCupInternational",2016
+267,257,"Matthew Giles",40,0.22,8.99,-2.84,2.52,"PresidentsCupInternational",2016
+268,259,"Satoshi Tomiyama",46,0.22,10.11,-4.69,NA,"PresidentsCupInternational",2016
+269,260,"Peter Karmis",40,0.22,8.77,-3.31,NA,"PresidentsCupInternational",2016
+270,263,"CJ Plessis",40,0.22,8.75,-1.2,8.4,"PresidentsCupInternational",2016
+271,261,"Hyowon Park",40,0.22,8.75,-2.93,2.43,"PresidentsCupInternational",2016
+272,262,"Kurt Barnes",43,0.22,9.35,-2.83,1.84,"PresidentsCupInternational",2016
+273,265,"Gi Whan Kim",49,0.21,10.28,-3.95,NA,"PresidentsCupInternational",2016
+274,264,"Josh Younger",40,0.21,8.38,-4.09,NA,"PresidentsCupInternational",2016
+275,267,"Masaru Takahashi",40,0.21,8.35,-2.72,1.2,"PresidentsCupInternational",2016
+276,266,"Roger Sloan",46,0.21,9.6,-3.88,6.25,"PresidentsCupInternational",2016
+277,268,"Lincoln Tighe",40,0.2,8.15,-2.08,NA,"PresidentsCupInternational",2016
+278,269,"Khalin Joshi",40,0.2,8.14,-2.28,NA,"PresidentsCupInternational",2016
+279,270,"Choi Hosung",52,0.2,10.47,-3.83,NA,"PresidentsCupInternational",2016
+280,271,"Corey Conners",40,0.2,8,-0.77,5.4,"PresidentsCupInternational",2016
+281,272,"James Kamte",40,0.2,7.83,-1.26,4.9,"PresidentsCupInternational",2016
+282,274,"David McKenzie",48,0.19,9.24,-4.08,3.6,"PresidentsCupInternational",2016
+283,277,"Todd Sinnott",40,0.19,7.66,-1.38,2.52,"PresidentsCupInternational",2016
+284,276,"Callum Mowat",44,0.19,8.41,-2.5,NA,"PresidentsCupInternational",2016
+285,275,"PH McIntyre",48,0.19,9.16,-5.01,NA,"PresidentsCupInternational",2016
+286,366,"Ruan de Smidt",48,0.19,9.08,-1.76,4.66,"PresidentsCupInternational",2016
+287,281,"Mikumu Horikawa",40,0.19,7.56,-1.92,NA,"PresidentsCupInternational",2016
+288,282,"Daniel Nisbet",40,0.19,7.53,-2.2,1.27,"PresidentsCupInternational",2016
+289,279,"Arie Ahmad Irawan",52,0.19,9.75,-5.8,NA,"PresidentsCupInternational",2016
+290,284,"Cheng Jin",40,0.19,7.44,-2.18,1.35,"PresidentsCupInternational",2016
+291,287,"Jean Paul Strydom",40,0.19,7.42,-0.38,4.9,"PresidentsCupInternational",2016
+292,286,"Ryan Ruffels",40,0.18,7.38,-1.32,4.01,"PresidentsCupInternational",2016
+293,320,"Augusto Nunez",40,0.18,7.36,-1.11,2.82,"PresidentsCupInternational",2016
+294,292,"Jarryd Felton",40,0.18,7.21,-0.86,1.44,"PresidentsCupInternational",2016
+295,291,"Matthew Guyatt",40,0.18,7.21,-1.77,1.2,"PresidentsCupInternational",2016
+296,295,"Charlie Wi",51,0.18,9.19,-4.16,1.98,"PresidentsCupInternational",2016
+297,321,"Oliver Bekker",52,0.18,9.32,-3.97,1.39,"PresidentsCupInternational",2016
+298,298,"Tim Hart",40,0.18,7.16,-0.58,5.14,"PresidentsCupInternational",2016
+299,296,"Diego Velasquez",40,0.18,7.15,-1.24,4.22,"PresidentsCupInternational",2016
+300,288,"Jake Higginbottom",40,0.18,7.15,-5.85,NA,"PresidentsCupInternational",2016
+301,293,"Mathew Goggin",52,0.18,9.28,-4.24,NA,"PresidentsCupInternational",2016
+302,290,"Tommy Cocha",45,0.18,8.03,-4.58,NA,"PresidentsCupInternational",2016
+303,294,"SK Ho",48,0.18,8.47,-4.76,NA,"PresidentsCupInternational",2016
+304,299,"Aaron Pike",40,0.18,7.06,-1.82,NA,"PresidentsCupInternational",2016
+305,300,"Lu Weichih",40,0.18,7.04,-1.77,2.08,"PresidentsCupInternational",2016
+306,289,"Mark Tullo",52,0.18,9.12,-8.7,NA,"PresidentsCupInternational",2016
+307,376,"Tyrone Mordt",46,0.18,8.06,-1.85,2.8,"PresidentsCupInternational",2016
+308,297,"Steve Dartnall",40,0.17,6.99,-4.27,1.32,"PresidentsCupInternational",2016
+309,301,"Jin Park",40,0.17,6.94,-1.99,2.8,"PresidentsCupInternational",2016
+310,303,"Ashley Hall",52,0.17,8.98,-2.55,6,"PresidentsCupInternational",2016
+311,328,"Wallie Coetsee",48,0.17,8.27,-5.61,2.73,"PresidentsCupInternational",2016
+312,302,"Jake Roos",52,0.17,8.78,-7.88,NA,"PresidentsCupInternational",2016
+313,308,"Bryce Easton",52,0.17,8.75,-1.07,7.32,"PresidentsCupInternational",2016
+314,304,"Hyungsoon Lee",40,0.17,6.69,-2.93,NA,"PresidentsCupInternational",2016
+315,306,"He Ze Yu",40,0.17,6.69,-1.64,NA,"PresidentsCupInternational",2016
+316,307,"Jihoon Lee",40,0.17,6.68,-2.01,NA,"PresidentsCupInternational",2016
+317,309,"Seukhyun Baek",51,0.17,8.51,-5.99,NA,"PresidentsCupInternational",2016
+318,311,"Jeev Milkha Singh",52,0.16,8.58,-1.51,3.92,"PresidentsCupInternational",2016
+319,310,"Tatsunori Nukaga",40,0.16,6.57,-1.4,NA,"PresidentsCupInternational",2016
+320,312,"Daniel Pearce",40,0.16,6.56,-1.45,NA,"PresidentsCupInternational",2016
+321,314,"Hui Lin Zhang",40,0.16,6.41,-1.02,NA,"PresidentsCupInternational",2016
+322,313,"Chih Bing Lam",43,0.16,6.83,-3.13,NA,"PresidentsCupInternational",2016
+323,315,"R Nachimuthu",40,0.16,6.32,-1.86,2.4,"PresidentsCupInternational",2016
+324,317,"Gunn Charoenkul",40,0.15,6.16,-3.21,1.21,"PresidentsCupInternational",2016
+325,316,"Ulrich Van den Berg",48,0.15,7.38,-7.03,1.27,"PresidentsCupInternational",2016
+326,319,"SS Hong",40,0.15,6.12,-2.02,1.8,"PresidentsCupInternational",2016
+327,318,"Heung Chol Joo",40,0.15,6.13,-3.05,NA,"PresidentsCupInternational",2016
+328,323,"Andrew Evans",40,0.15,6.03,-0.9,NA,"PresidentsCupInternational",2016
+329,324,"George Gandranata",45,0.15,6.78,-0.58,6,"PresidentsCupInternational",2016
+330,326,"Brad Moules",40,0.15,6,0,6,"PresidentsCupInternational",2016
+331,322,"Aaron Townsend",43,0.15,6.42,-2.93,NA,"PresidentsCupInternational",2016
+332,325,"Michael Hollick",41,0.15,6.1,-1.81,NA,"PresidentsCupInternational",2016
+333,330,"Thammanoon Sriroj",44,0.15,6.5,-1.24,1.8,"PresidentsCupInternational",2016
+334,327,"Colin Nel",50,0.15,7.35,-3.2,1.68,"PresidentsCupInternational",2016
+335,331,"Daehyun Kim",40,0.14,5.73,-2.3,NA,"PresidentsCupInternational",2016
+336,332,"Michael Wright",40,0.14,5.63,-1.05,2.64,"PresidentsCupInternational",2016
+337,334,"Unho Park",46,0.14,6.37,-3.55,NA,"PresidentsCupInternational",2016
+338,338,"Felipe Velazquez",40,0.14,5.53,-1.24,1.94,"PresidentsCupInternational",2016
+339,335,"Oscar Fraustro",50,0.14,6.9,-3.91,NA,"PresidentsCupInternational",2016
+340,336,"Justin Shin",40,0.14,5.52,-1.76,NA,"PresidentsCupInternational",2016
+341,337,"Kalem Richarson",40,0.14,5.46,-2.89,NA,"PresidentsCupInternational",2016
+342,341,"JC Ritchie",40,0.14,5.46,-1.36,1.68,"PresidentsCupInternational",2016
+343,340,"Shukree Othman",40,0.14,5.44,-1.73,NA,"PresidentsCupInternational",2016
+344,339,"Steven Jeffress",40,0.14,5.43,-2.9,2.43,"PresidentsCupInternational",2016
+345,342,"Wil Bateman",40,0.13,5.39,-1.5,NA,"PresidentsCupInternational",2016
+346,344,"Keiichiro Fukabori",44,0.13,5.87,-1.82,NA,"PresidentsCupInternational",2016
+347,346,"Daniel Valente",40,0.13,5.29,-1.39,NA,"PresidentsCupInternational",2016
+348,347,"Marius Meyer",40,0.13,5.29,-0.85,2.6,"PresidentsCupInternational",2016
+349,350,"Tirawat Kaewsiribandt",46,0.13,6.02,-1.38,2.1,"PresidentsCupInternational",2016
+350,345,"Ryan Yip",40,0.13,5.22,-3.05,NA,"PresidentsCupInternational",2016
+351,348,"Chao Haimeng",40,0.13,5.22,-0.78,NA,"PresidentsCupInternational",2016
+352,NA,"Nicolas Geyger",40,0.13,5.15,-0.86,2.64,"PresidentsCupInternational",2016
+353,349,"Mitch Krywulycz",40,0.13,5.13,-1.72,NA,"PresidentsCupInternational",2016
+354,343,"Ki Tack Kwon",46,0.13,5.88,-5.01,NA,"PresidentsCupInternational",2016
+355,351,"David Smail",45,0.13,5.73,-2.41,NA,"PresidentsCupInternational",2016
+356,353,"Albin Choi",40,0.13,5.09,-1.64,NA,"PresidentsCupInternational",2016
+357,354,"Sattaya Supupramai",48,0.13,6.09,-4.31,1.8,"PresidentsCupInternational",2016
+358,352,"Pariya Junhasavasdikul",44,0.13,5.56,-2.71,NA,"PresidentsCupInternational",2016
+359,355,"Chawalit Plaphol",40,0.13,5.04,-1.72,1.42,"PresidentsCupInternational",2016
+360,NA,"Bio Kim",40,0.13,5.04,-0.94,2.64,"PresidentsCupInternational",2016
+361,357,"Natthapong Niyomchon",40,0.13,5.01,-0.65,NA,"PresidentsCupInternational",2016
+362,360,"Lindsay Renolds",50,0.12,6.24,-1.65,NA,"PresidentsCupInternational",2016
+363,358,"Dimi Papadatos",40,0.12,4.98,-3.03,NA,"PresidentsCupInternational",2016
+364,356,"Robert Allenby",52,0.12,6.37,-6.76,NA,"PresidentsCupInternational",2016
+365,361,"Atthaphon Prathummanee",40,0.12,4.86,-1.56,NA,"PresidentsCupInternational",2016
+366,359,"Todd Baek",44,0.12,5.34,-3.79,NA,"PresidentsCupInternational",2016
+367,368,"Pijit Petkasem",48,0.12,5.82,-2.03,1.73,"PresidentsCupInternational",2016
+368,362,"Akinori Tani",40,0.12,4.84,-2.2,NA,"PresidentsCupInternational",2016
+369,364,"Rak Cho",40,0.12,4.81,-1.48,NA,"PresidentsCupInternational",2016
+370,363,"Chi Hsien Hsieh",40,0.12,4.81,-1.86,NA,"PresidentsCupInternational",2016
+371,365,"Alistair Presnell",45,0.12,5.38,-2.28,NA,"PresidentsCupInternational",2016
+372,370,"Guillermo Pereira",40,0.12,4.77,-0.31,3.6,"PresidentsCupInternational",2016
+373,372,"Jacobus Prinsloo",40,0.12,4.75,0,4.75,"PresidentsCupInternational",2016
+374,369,"Morne Buys",40,0.12,4.75,-1.73,NA,"PresidentsCupInternational",2016
+375,374,"Adam Blyth",40,0.12,4.72,-0.6,3.46,"PresidentsCupInternational",2016
+376,371,"Hidemasa Hoshino",44,0.12,5.1,-3.48,NA,"PresidentsCupInternational",2016
+377,375,"Lee Dong Min",40,0.12,4.61,-2.78,NA,"PresidentsCupInternational",2016
+378,367,"Sihwan Kim",41,0.11,4.69,-3.24,NA,"PresidentsCupInternational",2016
+379,380,"Marc Pucay",40,0.11,4.57,-0.91,NA,"PresidentsCupInternational",2016
+380,378,"Ricardo Celia",40,0.11,4.57,-1.24,NA,"PresidentsCupInternational",2016
+381,377,"Roberto Diaz",44,0.11,5.02,-2.25,3.25,"PresidentsCupInternational",2016
+382,381,"Jinjae Byun",40,0.11,4.55,-0.93,3.6,"PresidentsCupInternational",2016
+383,382,"Rory Bourke",40,0.11,4.54,-0.25,2.52,"PresidentsCupInternational",2016
+384,379,"Brad Clapp",40,0.11,4.53,-1.86,NA,"PresidentsCupInternational",2016
+385,373,"Jared Harvey",46,0.11,5.18,-5.22,NA,"PresidentsCupInternational",2016
+386,383,"Christopher Ross",40,0.11,4.5,-1.24,NA,"PresidentsCupInternational",2016
+387,385,"Gareth Paddison",40,0.11,4.47,-1.97,NA,"PresidentsCupInternational",2016
+388,384,"Phiphatphang Naewsuk",40,0.11,4.45,-2.18,NA,"PresidentsCupInternational",2016
+389,387,"Tran Le Duynhat",40,0.11,4.43,-1.24,NA,"PresidentsCupInternational",2016
+390,386,"Jason Norris",40,0.11,4.41,-1.57,NA,"PresidentsCupInternational",2016
+391,388,"Md Shakhawat Sohel",40,0.11,4.39,-0.29,2.8,"PresidentsCupInternational",2016
+392,389,"Mark Murless",40,0.11,4.34,-0.58,2.6,"PresidentsCupInternational",2016
+393,390,"Junya Kameshiro",40,0.11,4.33,-0.38,2.66,"PresidentsCupInternational",2016
+394,392,"Jake Stirling",48,0.1,5.02,-1.91,NA,"PresidentsCupInternational",2016
+395,394,"Zi Hao Chen",40,0.1,4.18,-1.32,NA,"PresidentsCupInternational",2016
+396,395,"Hsu Hao Sheng",40,0.1,4.17,-1.22,NA,"PresidentsCupInternational",2016
+397,393,"Peter Cooke",40,0.1,4.16,-1.9,NA,"PresidentsCupInternational",2016
+398,391,"Neil Schietekat",50,0.1,5.18,-4.31,NA,"PresidentsCupInternational",2016
+399,396,"Ryan Williams",40,0.1,4.07,-2.35,NA,"PresidentsCupInternational",2016
+400,397,"Anthony Brown",40,0.1,4.06,-1.82,NA,"PresidentsCupInternational",2016
+401,401,"Shankar Das",40,0.1,4.06,-0.65,1.82,"PresidentsCupInternational",2016
+402,398,"Shaaban Hussin",40,0.1,4.04,-1.87,NA,"PresidentsCupInternational",2016
+403,400,"Junseok Lee",40,0.1,4.02,-1.9,NA,"PresidentsCupInternational",2016
+404,402,"Yi Cao",40,0.1,3.96,-1.2,NA,"PresidentsCupInternational",2016
+405,399,"Ricardo Gonzalez",43,0.1,4.26,-3.45,NA,"PresidentsCupInternational",2016
+406,403,"Kevin Spooner",40,0.1,3.85,-1.24,NA,"PresidentsCupInternational",2016
+407,405,"Christopher Wood",40,0.09,3.78,-0.5,1.88,"PresidentsCupInternational",2016
+408,404,"Taeksoo Kim",40,0.09,3.74,-1.4,NA,"PresidentsCupInternational",2016
+409,406,"Peter Lonard",40,0.09,3.73,-0.77,NA,"PresidentsCupInternational",2016
+410,407,"Donlaphatchai Niyomchon",40,0.09,3.71,-1.01,3.5,"PresidentsCupInternational",2016
+411,409,"Sung Ho Lee",40,0.09,3.68,-1.44,NA,"PresidentsCupInternational",2016
+412,413,"Koh Dengshan",52,0.09,4.7,-0.67,4.7,"PresidentsCupInternational",2016
+413,416,"Toru Nakajima",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2016
+414,417,"Travis Symth",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2016
+415,412,"Wenyi Huang",40,0.09,3.59,-1.13,NA,"PresidentsCupInternational",2016
+416,411,"Oliver Goss",47,0.09,4.2,-2.19,NA,"PresidentsCupInternational",2016
+417,410,"Yasuki Hiramoto",40,0.09,3.58,-1.68,NA,"PresidentsCupInternational",2016
+418,408,"Brady Watt",41,0.09,3.66,-1.41,NA,"PresidentsCupInternational",2016
+419,415,"Juan Alvarez",40,0.09,3.56,-0.64,NA,"PresidentsCupInternational",2016
+420,419,"Neven Basic",40,0.09,3.5,0,3.5,"PresidentsCupInternational",2016
+421,418,"Rafael Becker",40,0.09,3.44,-1.83,NA,"PresidentsCupInternational",2016
+422,414,"IlHwan Park",40,0.09,3.45,-3.75,NA,"PresidentsCupInternational",2016
+423,421,"Yosuke Asaji",40,0.09,3.41,-0.44,1.23,"PresidentsCupInternational",2016
+424,420,"Shinji Tomimura",40,0.09,3.41,-1.44,NA,"PresidentsCupInternational",2016
+425,424,"Mark Brown",40,0.09,3.4,-1.89,1.36,"PresidentsCupInternational",2016
+426,422,"Takumi Kanaya",40,0.08,3.39,-0.77,NA,"PresidentsCupInternational",2016
+427,425,"Brad Shilton",40,0.08,3.36,-0.93,NA,"PresidentsCupInternational",2016
+428,423,"Kiyoshi Murota",40,0.08,3.33,-1.88,NA,"PresidentsCupInternational",2016
+429,427,"Ed Stedman",40,0.08,3.3,-0.89,NA,"PresidentsCupInternational",2016
+430,426,"Jose Toledo",40,0.08,3.3,-1.06,NA,"PresidentsCupInternational",2016
+431,433,"N Thangaraja",40,0.08,3.28,0,3.28,"PresidentsCupInternational",2016
+432,429,"Alex Haindl",40,0.08,3.27,-0.94,2.47,"PresidentsCupInternational",2016

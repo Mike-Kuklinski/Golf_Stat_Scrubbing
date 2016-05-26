@@ -1,0 +1,464 @@
+"PresidentsCupInternational_RANKTHISWEEK_2012","PresidentsCupInternational_RANKLASTWEEK_2012","PresidentsCupInternational_PLAYERNAME_2012","PresidentsCupInternational_EVENTS_2012","PresidentsCupInternational_AVGPOINTS_2012","PresidentsCupInternational_TOTALPOINTS_2012","PresidentsCupInternational_POINTSLOST_2012","PresidentsCupInternational_POINTSGAINED_2012","stat_name","year"
+1,1,"Adam Scott",42,6.21,260.71,-212.63,215.02,"PresidentsCupInternational",2012
+2,2,"Louis Oosthuizen",52,6.14,319.27,-179.83,334.85,"PresidentsCupInternational",2012
+3,3,"Charl Schwartzel",52,4.9,254.7,-222.23,205.41,"PresidentsCupInternational",2012
+4,4,"Ernie Els",52,4.34,225.54,-155.4,252.88,"PresidentsCupInternational",2012
+5,5,"Branden Grace",52,3.17,164.58,-65.55,197.4,"PresidentsCupInternational",2012
+6,6,"Jason Day",44,2.89,127.08,-195.35,79.01,"PresidentsCupInternational",2012
+7,7,"John Senden",52,2.85,148.11,-128.55,118.23,"PresidentsCupInternational",2012
+8,8,"Hiroyuki Fujita",52,2.64,137.44,-102.3,122.29,"PresidentsCupInternational",2012
+9,9,"KJ Choi",52,2.3,119.52,-182.66,69.16,"PresidentsCupInternational",2012
+10,10,"George Coetzee",52,2.27,117.84,-80.3,104.6,"PresidentsCupInternational",2012
+11,11,"Geoff Ogilvy",48,2.18,104.69,-128.47,80.02,"PresidentsCupInternational",2012
+12,12,"Marcus Fraser",52,2.13,110.88,-66.46,91.2,"PresidentsCupInternational",2012
+13,13,"Greg Chalmers",52,2.02,104.94,-83.57,69.89,"PresidentsCupInternational",2012
+14,15,"Thaworn Wiratchant",52,1.99,103.34,-47.38,100.43,"PresidentsCupInternational",2012
+15,14,"Sangmoon Bae",52,1.99,103.29,-107.87,72.46,"PresidentsCupInternational",2012
+16,16,"KT Kim",52,1.95,101.49,-149.96,66.09,"PresidentsCupInternational",2012
+17,17,"Brendan Jones",45,1.91,86.14,-68.89,80.4,"PresidentsCupInternational",2012
+18,18,"Ryo Ishikawa",52,1.88,97.81,-128.17,93.46,"PresidentsCupInternational",2012
+19,20,"Toru Taniguchi",49,1.82,89.12,-78.7,61.78,"PresidentsCupInternational",2012
+20,19,"Aaron Baddeley",49,1.8,88.39,-125.57,66.05,"PresidentsCupInternational",2012
+21,22,"Thongchai Jaidee",52,1.76,91.32,-63.22,92.67,"PresidentsCupInternational",2012
+22,21,"Vijay Singh",52,1.73,90.2,-96.74,77.61,"PresidentsCupInternational",2012
+23,23,"Brendon de Jonge",52,1.73,90.13,-70.28,93.52,"PresidentsCupInternational",2012
+24,24,"Marc Leishman",52,1.67,86.64,-63.01,91.65,"PresidentsCupInternational",2012
+25,25,"Gaganjeet Bhullar",41,1.65,67.8,-21.38,72.01,"PresidentsCupInternational",2012
+26,26,"Tim Clark",40,1.62,64.98,-74.02,71.65,"PresidentsCupInternational",2012
+27,27,"Seung Yul Noh",52,1.6,83.07,-77,79.45,"PresidentsCupInternational",2012
+28,28,"Jeev Milkha Singh",52,1.59,82.83,-51.12,80.58,"PresidentsCupInternational",2012
+29,29,"Koumei Oda",52,1.54,80.06,-63.09,50.46,"PresidentsCupInternational",2012
+30,30,"Yuta Ikeda",52,1.53,79.7,-91.6,68.63,"PresidentsCupInternational",2012
+31,31,"Toshinori Muto",52,1.53,79.39,-46.21,55.74,"PresidentsCupInternational",2012
+32,32,"YE Yang",52,1.51,78.26,-120.84,45.61,"PresidentsCupInternational",2012
+33,33,"Charlie Wi",52,1.49,77.45,-65.61,81.79,"PresidentsCupInternational",2012
+34,34,"Retief Goosen",47,1.48,69.43,-137.04,69.72,"PresidentsCupInternational",2012
+35,35,"Juvic Pagunsan",40,1.41,56.57,-28.94,40.28,"PresidentsCupInternational",2012
+36,36,"Thomas Aiken",52,1.4,72.55,-78.8,58.26,"PresidentsCupInternational",2012
+37,37,"Hyung Sung Kim",49,1.38,67.62,-25.29,65.14,"PresidentsCupInternational",2012
+38,38,"Yoshinori Fujimoto",40,1.32,52.73,-11.62,58.61,"PresidentsCupInternational",2012
+39,39,"Hideki Matsuyama",40,1.29,51.68,-23.14,38.27,"PresidentsCupInternational",2012
+40,40,"Kenichi Kuboya",52,1.28,66.32,-45.3,44.13,"PresidentsCupInternational",2012
+41,41,"Rory Sabbatini",52,1.23,64.14,-99.68,56.96,"PresidentsCupInternational",2012
+42,42,"Andres Romero",49,1.23,60.33,-52.41,51.76,"PresidentsCupInternational",2012
+43,43,"Brad Kennedy",44,1.18,52.05,-32.97,31.06,"PresidentsCupInternational",2012
+44,44,"Jaco Van Zyl",52,1.17,61.06,-52.19,50.31,"PresidentsCupInternational",2012
+45,45,"Darren Fichardt",42,1.15,48.46,-17.68,50.6,"PresidentsCupInternational",2012
+46,46,"Richard Sterne",40,1.12,44.69,-11.6,53.95,"PresidentsCupInternational",2012
+47,47,"Junggon Hwang",51,1.11,56.8,-19.98,46.28,"PresidentsCupInternational",2012
+48,49,"Hyunwoo Ryu",41,1.11,45.38,-10.44,43.3,"PresidentsCupInternational",2012
+49,48,"Shingo Katayama",47,1.1,51.83,-50.81,34.16,"PresidentsCupInternational",2012
+50,50,"Prom Meesawat",42,1.09,45.78,-18.56,46.07,"PresidentsCupInternational",2012
+51,51,"Garth Mulroy",52,1.08,56.09,-39.04,43.56,"PresidentsCupInternational",2012
+52,53,"Wu Ashun",40,1.05,42.12,-3.81,42.67,"PresidentsCupInternational",2012
+53,52,"Kurt Barnes",40,1.05,42.09,-36.04,25.7,"PresidentsCupInternational",2012
+54,54,"Kyoung Hoon Lee",40,1.04,41.52,-10.34,45.99,"PresidentsCupInternational",2012
+55,56,"Peter Senior",40,1.01,40.59,-18.49,35.8,"PresidentsCupInternational",2012
+56,55,"Graham DeLaet",40,1.01,40.28,-18.31,49.02,"PresidentsCupInternational",2012
+57,57,"Hennie Otto",52,0.99,51.47,-53.88,28.22,"PresidentsCupInternational",2012
+58,59,"Hideto Tanihara",51,0.97,49.51,-25.05,50.56,"PresidentsCupInternational",2012
+59,58,"Tomohiro Kondo",49,0.96,47.23,-49.7,27.83,"PresidentsCupInternational",2012
+60,60,"Jbe Kruger",52,0.94,48.98,-58.85,51.48,"PresidentsCupInternational",2012
+61,61,"WC Liang",49,0.94,45.94,-32.15,45.71,"PresidentsCupInternational",2012
+62,62,"Kiradech Aphibarnrat",52,0.92,47.9,-50.49,42.87,"PresidentsCupInternational",2012
+63,63,"I J Jang",47,0.91,42.84,-19.95,43.7,"PresidentsCupInternational",2012
+64,64,"Robert Allenby",52,0.89,46.2,-103.72,31.65,"PresidentsCupInternational",2012
+65,65,"Trevor Immelman",50,0.88,44.21,-49.71,33.44,"PresidentsCupInternational",2012
+66,66,"Cameron Percy",49,0.88,42.89,-19.92,43.09,"PresidentsCupInternational",2012
+67,67,"Anirban Lahiri",40,0.87,34.84,-23.25,38.71,"PresidentsCupInternational",2012
+68,68,"Masamichi Uehira",48,0.87,41.53,-13.88,40.96,"PresidentsCupInternational",2012
+69,69,"Siddikur Rahman",42,0.85,35.86,-41.93,32.65,"PresidentsCupInternational",2012
+70,70,"Richard Green",46,0.84,38.7,-66.48,30.03,"PresidentsCupInternational",2012
+71,71,"Do Hoon Kim",52,0.84,43.58,-47.07,33,"PresidentsCupInternational",2012
+72,72,"Rod Pampling",52,0.84,43.51,-26.65,42.89,"PresidentsCupInternational",2012
+73,73,"Tetsuji Hiratsuka",52,0.83,43.12,-79.68,22.25,"PresidentsCupInternational",2012
+74,74,"Brett Rumford",52,0.83,43.12,-39.65,41.35,"PresidentsCupInternational",2012
+75,75,"Keith Horne",52,0.82,42.86,-31.55,48.44,"PresidentsCupInternational",2012
+76,76,"David Hearn",52,0.81,41.99,-34.75,39.4,"PresidentsCupInternational",2012
+77,77,"Masanori Kobayashi",52,0.78,40.75,-17.15,38.6,"PresidentsCupInternational",2012
+78,78,"DH Lee",46,0.77,35.63,-26.43,21.14,"PresidentsCupInternational",2012
+79,80,"Yusaku Miyazato",51,0.76,38.63,-20.92,25.31,"PresidentsCupInternational",2012
+80,81,"Kunihiro Kamii",49,0.76,37.01,-23.52,30.27,"PresidentsCupInternational",2012
+81,79,"Felipe Aguilar",52,0.75,39.08,-39.18,26.65,"PresidentsCupInternational",2012
+82,82,"Jhonattan Vegas",52,0.74,38.46,-69.96,32.71,"PresidentsCupInternational",2012
+83,83,"Camilo Villegas",52,0.73,38.17,-76.21,22.1,"PresidentsCupInternational",2012
+84,84,"Ricardo Gonzalez",40,0.73,29.3,-29.89,27.77,"PresidentsCupInternational",2012
+85,85,"Danny Lee",52,0.73,37.85,-40.99,20.39,"PresidentsCupInternational",2012
+86,88,"Kazuhiro Yamashita",50,0.72,35.95,-14.69,30.93,"PresidentsCupInternational",2012
+87,87,"Trevor Fisher Jr",40,0.72,28.68,-11.88,29.73,"PresidentsCupInternational",2012
+88,86,"Nick OHern",52,0.72,37.22,-41.1,20.68,"PresidentsCupInternational",2012
+89,89,"Scott Hend",52,0.71,36.73,-23.55,38.29,"PresidentsCupInternational",2012
+90,90,"Jake Roos",41,0.7,28.72,-8.47,29.13,"PresidentsCupInternational",2012
+91,91,"Fabrizio Zanotti",52,0.69,35.84,-34.59,30.7,"PresidentsCupInternational",2012
+92,93,"Ryuichi Oda",46,0.69,31.59,-26.74,28.7,"PresidentsCupInternational",2012
+93,92,"Angel Cabrera",43,0.69,29.48,-44.54,20.81,"PresidentsCupInternational",2012
+94,95,"Arnond Vongvanij",40,0.68,27.36,-2.38,29.74,"PresidentsCupInternational",2012
+95,94,"Kieran Pratt",40,0.68,27.33,-13.54,28.55,"PresidentsCupInternational",2012
+96,96,"Mike Hendry",40,0.67,26.68,-11.43,28.04,"PresidentsCupInternational",2012
+97,97,"Shiv Kapur",52,0.65,33.83,-20.97,33.18,"PresidentsCupInternational",2012
+98,98,"Thitiphan Chuayprako",40,0.63,25.24,-3.24,24.2,"PresidentsCupInternational",2012
+99,99,"Michael Campbell",50,0.62,31.2,-6.94,30.41,"PresidentsCupInternational",2012
+100,101,"Nick Cullen",40,0.61,24.51,-8,25.77,"PresidentsCupInternational",2012
+101,100,"Prayad Marksaeng",52,0.61,31.78,-41.93,24.77,"PresidentsCupInternational",2012
+102,102,"Justin Walters",46,0.61,27.86,-14.66,25.77,"PresidentsCupInternational",2012
+103,103,"SK Ho",47,0.6,28.28,-29.64,18.77,"PresidentsCupInternational",2012
+104,105,"Antonio Lascuna",40,0.6,23.92,-8.06,24.94,"PresidentsCupInternational",2012
+105,104,"Jay Choi",51,0.6,30.48,-32.65,27.87,"PresidentsCupInternational",2012
+106,106,"Michio Matsumura",52,0.6,30.97,-57.84,15.33,"PresidentsCupInternational",2012
+107,107,"Brad Fritsch",40,0.59,23.57,-6.04,25.08,"PresidentsCupInternational",2012
+108,108,"Daehyun Kim",40,0.59,23.45,-16.12,18.64,"PresidentsCupInternational",2012
+109,109,"Tadahiro Takayama",52,0.57,29.89,-47.32,9.8,"PresidentsCupInternational",2012
+110,110,"Scott Gardiner",52,0.57,29.51,-12.55,31.21,"PresidentsCupInternational",2012
+111,111,"Sanghee Lee",40,0.56,22.58,-6.25,21.54,"PresidentsCupInternational",2012
+112,112,"Whee Kim",40,0.56,22.58,-7.02,17.99,"PresidentsCupInternational",2012
+113,113,"Kyung Nam Kang",40,0.56,22.29,-19.75,18.21,"PresidentsCupInternational",2012
+114,115,"Ariel Canete",40,0.55,22.09,-3.78,22.02,"PresidentsCupInternational",2012
+115,114,"Park Sangeon",40,0.55,21.93,-18.83,16.96,"PresidentsCupInternational",2012
+116,116,"Adam Hadwin",43,0.54,23.43,-23.63,16.9,"PresidentsCupInternational",2012
+117,117,"Mardan Mamat",52,0.54,28.21,-29.81,27.39,"PresidentsCupInternational",2012
+118,119,"Taichi Teshima",46,0.53,24.54,-16.37,19.44,"PresidentsCupInternational",2012
+119,118,"Cho Minjun",49,0.53,26.11,-34.77,11.72,"PresidentsCupInternational",2012
+120,120,"Katsumasa Miyamoto",49,0.52,25.48,-37.39,18.01,"PresidentsCupInternational",2012
+121,121,"Alistair Presnell",52,0.52,27,-25.24,27.36,"PresidentsCupInternational",2012
+122,122,"Joong Kyung Mo",41,0.51,21.07,-19.71,18.23,"PresidentsCupInternational",2012
+123,124,"Chapchai Nirat",50,0.51,25.31,-13.54,22.72,"PresidentsCupInternational",2012
+124,123,"Lu Weichih",40,0.5,20.17,-23.79,5.39,"PresidentsCupInternational",2012
+125,125,"Allan Versfeld",40,0.5,20.1,-5.07,19.99,"PresidentsCupInternational",2012
+126,127,"David Smail",47,0.5,23.56,-14.43,20.95,"PresidentsCupInternational",2012
+127,126,"Bio Kim",52,0.5,25.95,-20.66,27.97,"PresidentsCupInternational",2012
+128,128,"Oliver Bekker",40,0.48,19.3,-12.06,24.97,"PresidentsCupInternational",2012
+129,129,"Adilson da Silva",45,0.48,21.69,-14.01,17.76,"PresidentsCupInternational",2012
+130,133,"Daniel Popovic",40,0.48,19.2,0,19.2,"PresidentsCupInternational",2012
+131,134,"Jake Higginbottom",40,0.48,19.11,-0.61,18.5,"PresidentsCupInternational",2012
+132,130,"Shunsuke Sonoda",49,0.48,23.29,-37.85,15.24,"PresidentsCupInternational",2012
+133,132,"Kiyoshi Miyazato",48,0.47,22.77,-15.26,14.07,"PresidentsCupInternational",2012
+134,131,"Seong Ho Lee",40,0.47,18.91,-10.67,16.58,"PresidentsCupInternational",2012
+135,135,"Mark Brown",50,0.47,23.32,-14.32,21.44,"PresidentsCupInternational",2012
+136,136,"Jaco Ahlers",40,0.47,18.62,-5.48,19.26,"PresidentsCupInternational",2012
+137,138,"Camilo Benedetti",48,0.46,22.03,-12.98,20.16,"PresidentsCupInternational",2012
+138,139,"Stuart Appleby",52,0.46,23.7,-54.86,20.68,"PresidentsCupInternational",2012
+139,137,"Mathew Goggin",49,0.46,22.34,-31.14,13.5,"PresidentsCupInternational",2012
+140,141,"Angelo Que",40,0.45,18.07,-12.18,16.96,"PresidentsCupInternational",2012
+141,140,"Jarrod Lyle",40,0.45,17.85,-25.15,18.07,"PresidentsCupInternational",2012
+142,144,"Kim Daesub",40,0.45,17.8,-0.44,18,"PresidentsCupInternational",2012
+143,142,"Mark Tullo",52,0.44,23.12,-29.04,19.33,"PresidentsCupInternational",2012
+144,143,"Scott Barr",43,0.44,19.09,-12.96,18.15,"PresidentsCupInternational",2012
+145,145,"Masahiro Kawamura",40,0.44,17.44,-3.09,20.53,"PresidentsCupInternational",2012
+146,146,"Koichiro Kawano",47,0.43,20,-23.34,4.8,"PresidentsCupInternational",2012
+147,148,"Tyrone Van Aswegen",52,0.42,22,-7.7,22.77,"PresidentsCupInternational",2012
+148,149,"Emiliano Grillo",40,0.42,16.9,-3.19,18.73,"PresidentsCupInternational",2012
+149,147,"Tjaart van der Walt",43,0.42,18.1,-21.18,16.58,"PresidentsCupInternational",2012
+150,151,"Alexandre Rocha",52,0.42,21.77,-6.2,19.92,"PresidentsCupInternational",2012
+151,153,"Oscar Fraustro",40,0.42,16.72,-1.77,16.88,"PresidentsCupInternational",2012
+152,150,"Chawalit Plaphol",52,0.42,21.61,-30.49,9.72,"PresidentsCupInternational",2012
+153,152,"Dawie van der Walt",47,0.41,19.5,-12.44,21.79,"PresidentsCupInternational",2012
+154,156,"Seukhyun Baek",40,0.41,16.45,-10.54,18.44,"PresidentsCupInternational",2012
+155,155,"Daisuke Maruyama",52,0.41,21.35,-37.91,11.12,"PresidentsCupInternational",2012
+156,154,"Steven Conran",40,0.41,16.39,-13.29,13.18,"PresidentsCupInternational",2012
+157,157,"Yui Ueda",46,0.4,18.4,-12.14,14.57,"PresidentsCupInternational",2012
+158,158,"Shaun Norris",44,0.4,17.54,-11.72,13.41,"PresidentsCupInternational",2012
+159,159,"Yoshinobu Tsukada",42,0.4,16.68,-6.39,15.95,"PresidentsCupInternational",2012
+160,160,"Yasuharu Imano",40,0.4,15.82,-9.44,13.53,"PresidentsCupInternational",2012
+161,162,"Tano Goya",52,0.39,20.42,-28.13,17.5,"PresidentsCupInternational",2012
+162,163,"Hiroo Kawai",47,0.39,18.26,-30.53,5.6,"PresidentsCupInternational",2012
+163,161,"James Kingston",52,0.39,20.17,-45.36,17.74,"PresidentsCupInternational",2012
+164,167,"Clodomiro Carranza",40,0.39,15.41,-3.64,16.19,"PresidentsCupInternational",2012
+165,164,"Himmat Rai",43,0.38,16.54,-13.69,8.06,"PresidentsCupInternational",2012
+166,165,"Azuma Yano",50,0.38,19.14,-25.46,13.63,"PresidentsCupInternational",2012
+167,166,"Alex Haindl",41,0.38,15.69,-15.69,16.85,"PresidentsCupInternational",2012
+168,169,"Nick Flanagan",42,0.38,15.78,-9.16,16.24,"PresidentsCupInternational",2012
+169,168,"Chan Yihshin",40,0.38,15.02,-13.93,8.19,"PresidentsCupInternational",2012
+170,175,"Peter Wilson",40,0.37,14.89,-1.55,14,"PresidentsCupInternational",2012
+171,173,"SSP Chawrasia",52,0.37,19.28,-23.77,20.37,"PresidentsCupInternational",2012
+172,170,"Sung Kang",52,0.37,19.28,-29.98,7.62,"PresidentsCupInternational",2012
+173,171,"Masatsugo Morofuji",46,0.37,17.02,-16.14,7.35,"PresidentsCupInternational",2012
+174,174,"Akio Sadakata",40,0.37,14.73,-10.34,12.48,"PresidentsCupInternational",2012
+175,172,"Matt Jones",48,0.37,17.66,-37.65,13.78,"PresidentsCupInternational",2012
+176,176,"Adam Crawford",40,0.36,14.55,-7.54,7.4,"PresidentsCupInternational",2012
+177,177,"Takashi Kanemoto",48,0.36,17.38,-27.58,15.39,"PresidentsCupInternational",2012
+178,178,"Christiaan Basson",40,0.36,14.27,-10.79,12.96,"PresidentsCupInternational",2012
+179,180,"Desvonde Botes",40,0.35,14.18,-5.47,13.36,"PresidentsCupInternational",2012
+180,181,"Merrick Bremner",40,0.35,14.18,-3.26,14.22,"PresidentsCupInternational",2012
+181,182,"Matthew Griffin",40,0.35,14.12,-7,13.52,"PresidentsCupInternational",2012
+182,179,"Chinnarat Phadungsil",51,0.35,18,-17.04,13.67,"PresidentsCupInternational",2012
+183,183,"Jang Dong Kyu",40,0.35,14.03,-2.49,13.26,"PresidentsCupInternational",2012
+184,184,"Chehuang Tsai",40,0.35,13.85,-1.87,14,"PresidentsCupInternational",2012
+185,185,"Yoshikazu Haku",49,0.34,16.74,-17.12,14.37,"PresidentsCupInternational",2012
+186,186,"Sushi Ishigaki",47,0.34,16.02,-10.99,15.46,"PresidentsCupInternational",2012
+187,187,"Daniel Alfredo Vancsik",52,0.34,17.63,-9.08,17.4,"PresidentsCupInternational",2012
+188,188,"Miguel Angel Carballo",52,0.33,17.38,-19.5,7.68,"PresidentsCupInternational",2012
+189,190,"Gareth Paddison",40,0.33,13.3,-7.91,14.28,"PresidentsCupInternational",2012
+190,189,"Sihwan Kim",40,0.33,13.27,-1.95,15.22,"PresidentsCupInternational",2012
+191,191,"Norio Shinozaki",41,0.32,13.2,-2.76,13.23,"PresidentsCupInternational",2012
+192,192,"Ruan de Smidt",40,0.32,12.79,-0.93,13.72,"PresidentsCupInternational",2012
+193,194,"Vaughn Groenewald",40,0.31,12.58,-3.41,12.6,"PresidentsCupInternational",2012
+194,193,"Gavin Coles",51,0.31,15.94,-21.13,5.77,"PresidentsCupInternational",2012
+195,196,"Kaname Yokoo",47,0.31,14.66,-12.57,12.49,"PresidentsCupInternational",2012
+196,195,"James Nitties",48,0.31,14.95,-16.95,6.81,"PresidentsCupInternational",2012
+197,198,"Aaron Townsend",40,0.31,12.38,-5.81,10.59,"PresidentsCupInternational",2012
+198,197,"Divan van den Heever",40,0.31,12.36,-9.03,11.13,"PresidentsCupInternational",2012
+199,199,"Hyun Bin Park",40,0.31,12.3,-3.83,11.86,"PresidentsCupInternational",2012
+200,200,"Richard Scott",40,0.3,12.14,-5.43,12.35,"PresidentsCupInternational",2012
+201,201,"Lee Inwoo",40,0.3,12.09,-3.48,14,"PresidentsCupInternational",2012
+202,202,"Panuphol Pittayarat",40,0.3,11.97,-7.48,8.07,"PresidentsCupInternational",2012
+203,204,"Nathan Green",52,0.29,15.29,-15.77,12.62,"PresidentsCupInternational",2012
+204,203,"Choi Hosung",40,0.29,11.74,-13.98,7.1,"PresidentsCupInternational",2012
+205,205,"Jinho Choi",40,0.29,11.72,-9.66,9.14,"PresidentsCupInternational",2012
+206,206,"David Gleeson",40,0.29,11.63,-14.54,1.2,"PresidentsCupInternational",2012
+207,209,"Tommy Cocha",40,0.29,11.55,-1.56,12.24,"PresidentsCupInternational",2012
+208,210,"Darren Beck",42,0.29,12.08,-7.91,9.1,"PresidentsCupInternational",2012
+209,208,"Inn Choon Hwang",40,0.29,11.49,-12.38,9.48,"PresidentsCupInternational",2012
+210,207,"SS Hong",40,0.28,11.39,-15.38,3.6,"PresidentsCupInternational",2012
+211,212,"Eugene Wong",40,0.28,11.35,-0.65,12,"PresidentsCupInternational",2012
+212,215,"Ashley Hall",40,0.28,11.31,-6.84,7.12,"PresidentsCupInternational",2012
+213,211,"Jaebum Park",49,0.28,13.78,-24.52,5.51,"PresidentsCupInternational",2012
+214,213,"Cesar Costilla",40,0.28,11.23,-10.01,7.88,"PresidentsCupInternational",2012
+215,214,"Mamo Osanai",46,0.28,12.92,-21.05,8.53,"PresidentsCupInternational",2012
+216,217,"Anthony Brown",40,0.28,11.14,-5.27,9,"PresidentsCupInternational",2012
+217,218,"Gi Whan Kim",40,0.28,11.09,-2.52,13.61,"PresidentsCupInternational",2012
+218,221,"Colin Nel",40,0.28,11.02,-4.17,11.02,"PresidentsCupInternational",2012
+219,216,"Arjun Atwal",52,0.28,14.31,-35.74,11.67,"PresidentsCupInternational",2012
+220,219,"Jyoti Randhawa",40,0.27,11,-10.65,8.4,"PresidentsCupInternational",2012
+221,220,"Pariya Junhasavasdikul",46,0.27,12.57,-25.27,6.6,"PresidentsCupInternational",2012
+222,222,"Andres Echavarria",40,0.27,10.88,-4.88,9.82,"PresidentsCupInternational",2012
+223,223,"Digvijay Singh",40,0.27,10.8,-6.48,14,"PresidentsCupInternational",2012
+224,224,"Eun Shin Park",40,0.27,10.69,-4.49,10.31,"PresidentsCupInternational",2012
+225,226,"Ryutaro Nagano",40,0.27,10.7,-1.02,11.49,"PresidentsCupInternational",2012
+226,227,"Keiichiro Fukabori",40,0.26,10.59,-4.84,13.33,"PresidentsCupInternational",2012
+227,225,"Cesar Monasterio",40,0.26,10.59,-11.04,5.46,"PresidentsCupInternational",2012
+228,229,"Tyrone Ferreira",52,0.26,13.64,-11.14,16.18,"PresidentsCupInternational",2012
+229,228,"Ryuji Imada",52,0.26,13.5,-35.49,5.95,"PresidentsCupInternational",2012
+230,232,"Matias OCurry",40,0.26,10.37,-0.13,10.5,"PresidentsCupInternational",2012
+231,230,"Justin Harding",40,0.26,10.36,-3.29,10.84,"PresidentsCupInternational",2012
+232,233,"Andrew Dodt",52,0.26,13.4,-15.84,12.39,"PresidentsCupInternational",2012
+233,231,"Daisuke Kataoka",50,0.26,12.8,-11.01,7.75,"PresidentsCupInternational",2012
+234,234,"Jean Hugo",40,0.25,10.13,-10,5.14,"PresidentsCupInternational",2012
+235,236,"Ockert Strydom",40,0.25,10.08,-5.19,5.24,"PresidentsCupInternational",2012
+236,238,"Bryce Easton",40,0.25,10.06,-3.27,12.1,"PresidentsCupInternational",2012
+237,235,"Chris Swanepoel",40,0.25,10.05,-6.57,10.98,"PresidentsCupInternational",2012
+238,240,"Ulrich Van den Berg",40,0.25,9.93,-6.78,9.18,"PresidentsCupInternational",2012
+239,237,"Andre Stolz",40,0.25,9.93,-24.19,3.06,"PresidentsCupInternational",2012
+240,239,"Stephen Ames",42,0.25,10.36,-22.51,9.01,"PresidentsCupInternational",2012
+241,244,"Jason Norris",40,0.24,9.75,0,9.75,"PresidentsCupInternational",2012
+242,241,"Kim Sung Yoon",41,0.24,9.98,-9.49,7.19,"PresidentsCupInternational",2012
+243,242,"Elmer Salvador",40,0.24,9.72,-6.32,9.6,"PresidentsCupInternational",2012
+244,247,"Sebastian Fernandez",40,0.24,9.57,-2.73,8.4,"PresidentsCupInternational",2012
+245,243,"Kim Hyung Tae",52,0.24,12.42,-26.46,2.67,"PresidentsCupInternational",2012
+246,246,"Boonchu Ruangkit",40,0.24,9.55,-3.12,9.87,"PresidentsCupInternational",2012
+247,248,"Matthew Millar",40,0.24,9.46,-5.3,5.63,"PresidentsCupInternational",2012
+248,245,"Jose de Jesus Rodriguez",40,0.24,9.46,-12.19,5.48,"PresidentsCupInternational",2012
+249,249,"Kazuhiko Hosokawa",40,0.24,9.43,-9.94,7.74,"PresidentsCupInternational",2012
+250,250,"Steven Bowditch",52,0.23,12.2,-27.22,8.91,"PresidentsCupInternational",2012
+251,251,"Steven Alker",41,0.23,9.6,-3.07,11.42,"PresidentsCupInternational",2012
+252,254,"Steven Jones",40,0.23,9.32,-2.95,7.51,"PresidentsCupInternational",2012
+253,252,"Satoshi Tomiyama",42,0.23,9.75,-9.31,6.6,"PresidentsCupInternational",2012
+254,256,"Gunn Charoenkul",40,0.23,9.19,-0.07,9.26,"PresidentsCupInternational",2012
+255,253,"Matthew Zions",52,0.23,11.87,-20.97,6.96,"PresidentsCupInternational",2012
+256,255,"SJ Park",43,0.23,9.78,-11,5.89,"PresidentsCupInternational",2012
+257,257,"Puma Dominguez",40,0.22,8.99,-4.99,6.66,"PresidentsCupInternational",2012
+258,259,"Nelson Ledesma",40,0.22,8.96,-5.03,5.68,"PresidentsCupInternational",2012
+259,261,"Danie van Tonder",40,0.22,8.95,-0.97,9.92,"PresidentsCupInternational",2012
+260,258,"Julian Etulain",40,0.22,8.9,-9.01,8.24,"PresidentsCupInternational",2012
+261,260,"Fabian Gomez",51,0.22,11.33,-14.69,11.75,"PresidentsCupInternational",2012
+262,262,"Kodai Ichihara",52,0.22,11.49,-15.64,8.69,"PresidentsCupInternational",2012
+263,263,"Junwon Park",40,0.22,8.79,-3.47,8.81,"PresidentsCupInternational",2012
+264,265,"Julio Zapata",40,0.22,8.75,-7.87,9.1,"PresidentsCupInternational",2012
+265,264,"Nobuhiro Masuda",46,0.22,9.9,-19.42,3.55,"PresidentsCupInternational",2012
+266,268,"Scott Laycock",40,0.21,8.58,-2.28,7.21,"PresidentsCupInternational",2012
+267,267,"Hiroshi Iwata",49,0.21,10.5,-14.35,7.62,"PresidentsCupInternational",2012
+268,269,"James Kamte",40,0.21,8.49,-3.89,8.48,"PresidentsCupInternational",2012
+269,270,"Dean Burmester",40,0.21,8.48,-1.91,10.39,"PresidentsCupInternational",2012
+270,266,"Benjamin Alvarado",40,0.21,8.46,-16.79,3.16,"PresidentsCupInternational",2012
+271,271,"Rafael Echenique",52,0.21,10.88,-16.04,10.22,"PresidentsCupInternational",2012
+272,272,"Tetsuya Haraguchi",46,0.21,9.57,-18.21,5.81,"PresidentsCupInternational",2012
+273,274,"Kim Felton",40,0.21,8.29,-5.03,7.89,"PresidentsCupInternational",2012
+274,277,"Matthew Stieger",40,0.21,8.24,0,8.24,"PresidentsCupInternational",2012
+275,273,"Matt Hill",40,0.21,8.2,-1.4,9.6,"PresidentsCupInternational",2012
+276,275,"Maximiliano Godoy",40,0.21,8.2,-3.77,4.71,"PresidentsCupInternational",2012
+277,276,"Matt Carvell",40,0.2,8.16,-7.14,6,"PresidentsCupInternational",2012
+278,279,"Michael Gligic",40,0.2,7.99,-1.31,9.3,"PresidentsCupInternational",2012
+279,278,"Hirohito Koizumi",41,0.2,8.17,-8.29,3.84,"PresidentsCupInternational",2012
+280,280,"Thanyakorn Khrongpha",40,0.2,7.93,-4.85,6.85,"PresidentsCupInternational",2012
+281,281,"Zaw Moe",40,0.2,7.87,-8.42,5.13,"PresidentsCupInternational",2012
+282,282,"Peter Lonard",52,0.2,10.16,-8.01,7.65,"PresidentsCupInternational",2012
+283,283,"Aron Price",49,0.19,9.5,-14.52,5.85,"PresidentsCupInternational",2012
+284,286,"Marco Ruiz",40,0.19,7.74,-7.86,7.32,"PresidentsCupInternational",2012
+285,290,"Mark Williams",40,0.19,7.72,-2.23,7.43,"PresidentsCupInternational",2012
+286,284,"Neven Basic",49,0.19,9.45,-11.66,1.22,"PresidentsCupInternational",2012
+287,289,"Wade Ormsby",43,0.19,8.29,-5.85,8.7,"PresidentsCupInternational",2012
+288,287,"Andrew Tschudin",40,0.19,7.67,-7.43,7.28,"PresidentsCupInternational",2012
+289,288,"Stuart Anderson",40,0.19,7.66,-6.71,3.62,"PresidentsCupInternational",2012
+290,285,"Matt McQuillan",40,0.19,7.65,-12.78,NA,"PresidentsCupInternational",2012
+291,292,"Yosuke Asaji",40,0.19,7.64,-3.04,6.52,"PresidentsCupInternational",2012
+292,291,"Chiragh Kumar",40,0.19,7.61,-5.39,3.37,"PresidentsCupInternational",2012
+293,293,"Ryan Cairns",40,0.19,7.6,-2.81,9.43,"PresidentsCupInternational",2012
+294,294,"Nobuhito Sato",40,0.19,7.54,-6.96,1.7,"PresidentsCupInternational",2012
+295,296,"Cory Renfrew",40,0.19,7.53,-1.47,9,"PresidentsCupInternational",2012
+296,297,"Bradford Vaughan",40,0.19,7.5,-7.05,4.74,"PresidentsCupInternational",2012
+297,295,"Tyrone Mordt",40,0.19,7.48,-9.45,1.21,"PresidentsCupInternational",2012
+298,298,"Wen Tang Lin",40,0.19,7.46,-11.77,4.62,"PresidentsCupInternational",2012
+299,299,"Scott Arnold",40,0.19,7.42,-8.23,6,"PresidentsCupInternational",2012
+300,301,"Sebastian Vazquez",40,0.19,7.42,-0.06,7.48,"PresidentsCupInternational",2012
+301,300,"Danny Chia",43,0.18,7.87,-6.89,4.56,"PresidentsCupInternational",2012
+302,306,"Oliver Goss",40,0.18,7.28,0,7.28,"PresidentsCupInternational",2012
+303,302,"Hidezumi Shirakata",40,0.18,7.28,-2.54,7.85,"PresidentsCupInternational",2012
+304,305,"Louis de Jager",40,0.18,7.22,-2.84,7.78,"PresidentsCupInternational",2012
+305,304,"Masafumi Kawase",41,0.18,7.38,-7.46,2.64,"PresidentsCupInternational",2012
+306,303,"Marcus Both",45,0.18,8.09,-15.8,6,"PresidentsCupInternational",2012
+307,307,"Bronson La Cassie",40,0.18,7.09,-6.83,6.3,"PresidentsCupInternational",2012
+308,308,"Marc Pucay",43,0.18,7.54,-9.1,3.99,"PresidentsCupInternational",2012
+309,309,"Namchoak Tantipokakul",47,0.17,8.16,-13.3,6.38,"PresidentsCupInternational",2012
+310,310,"Miguel Tabuena",40,0.17,6.82,-3.78,5.22,"PresidentsCupInternational",2012
+311,311,"Andrew Parr",40,0.17,6.8,-3.73,8.56,"PresidentsCupInternational",2012
+312,312,"Andrew Georgiou",40,0.17,6.71,-3.91,6.84,"PresidentsCupInternational",2012
+313,316,"David Bransdon",40,0.17,6.66,-4.08,4.45,"PresidentsCupInternational",2012
+314,315,"Rohan Blizard",40,0.17,6.63,-6.55,2.96,"PresidentsCupInternational",2012
+315,314,"Wen Teh Lu",40,0.17,6.63,-7.85,1.25,"PresidentsCupInternational",2012
+316,313,"Josh Geary",40,0.17,6.6,-10.55,NA,"PresidentsCupInternational",2012
+317,317,"Rafael Campos",40,0.16,6.52,-1.45,7.97,"PresidentsCupInternational",2012
+318,319,"Tim Wilkinson",51,0.16,8.1,-7.82,6.49,"PresidentsCupInternational",2012
+319,318,"Michiel Bothma",52,0.16,8.22,-12.86,7.99,"PresidentsCupInternational",2012
+320,325,"James McLean",40,0.16,6.23,-0.08,6.31,"PresidentsCupInternational",2012
+321,320,"Han Minkyu",40,0.16,6.22,-5.14,2.4,"PresidentsCupInternational",2012
+322,324,"Jose Coceres",40,0.15,6.2,-2.8,3,"PresidentsCupInternational",2012
+323,323,"Shigeru Nonaka",45,0.15,6.96,-11.6,6.1,"PresidentsCupInternational",2012
+324,321,"Hugo Leon",40,0.15,6.18,-5.7,3.6,"PresidentsCupInternational",2012
+325,322,"Roger Sloan",40,0.15,6.15,-7.74,3.24,"PresidentsCupInternational",2012
+326,326,"Lee Taehee",40,0.15,6.08,-2.79,5.35,"PresidentsCupInternational",2012
+327,330,"Jooyeop Baek",40,0.15,6,0,6,"PresidentsCupInternational",2012
+328,331,"Sebastian Salem",40,0.15,6,0,6,"PresidentsCupInternational",2012
+329,333,"Alan Wagner",40,0.15,6,0,6,"PresidentsCupInternational",2012
+330,327,"Satoshi Kodaira",40,0.15,5.97,-4.34,3.03,"PresidentsCupInternational",2012
+331,332,"Brad Shilton",40,0.15,5.93,-0.07,6,"PresidentsCupInternational",2012
+332,337,"Ryan Fox",40,0.15,5.92,-0.53,6.45,"PresidentsCupInternational",2012
+333,336,"Ki Sang Lee",40,0.15,5.89,-2.88,3.6,"PresidentsCupInternational",2012
+334,329,"Craig Parry",40,0.15,5.89,-6.93,NA,"PresidentsCupInternational",2012
+335,334,"Adam Blyth",41,0.15,6.01,-4.74,9.66,"PresidentsCupInternational",2012
+336,338,"Steve Allan",40,0.15,5.85,-5.23,3.99,"PresidentsCupInternational",2012
+337,328,"Andrew Tampion",40,0.15,5.82,-8.76,2.34,"PresidentsCupInternational",2012
+338,335,"Hidemasa Hoshino",46,0.15,6.67,-9.75,2.25,"PresidentsCupInternational",2012
+339,340,"Jin Park",52,0.14,7.51,-7.46,6.77,"PresidentsCupInternational",2012
+340,339,"Adam Groom",40,0.14,5.74,-6.89,3.57,"PresidentsCupInternational",2012
+341,342,"Mitsuhiro Tateyama",43,0.14,6.07,-14.76,2.45,"PresidentsCupInternational",2012
+342,341,"Scott Strange",48,0.14,6.74,-15.01,3.87,"PresidentsCupInternational",2012
+343,347,"Keenan Davidse",40,0.14,5.56,-0.45,6.01,"PresidentsCupInternational",2012
+344,348,"Cameron Smith",40,0.14,5.5,-0.5,6,"PresidentsCupInternational",2012
+345,344,"Diego Vanegas",40,0.14,5.5,-6.24,3.6,"PresidentsCupInternational",2012
+346,343,"Paul Sheehan",52,0.14,7.12,-19.57,NA,"PresidentsCupInternational",2012
+347,345,"Seunghyuk Kim",40,0.14,5.47,-5.69,1.7,"PresidentsCupInternational",2012
+348,346,"Akinori Tani",52,0.14,7.12,-9.15,2.34,"PresidentsCupInternational",2012
+349,349,"Lucho Dodda",40,0.13,5.39,-1.87,6,"PresidentsCupInternational",2012
+350,350,"Jose Garrido",40,0.13,5.39,-3.8,3.6,"PresidentsCupInternational",2012
+351,352,"Craig Hancock",40,0.13,5.37,-2.58,3.6,"PresidentsCupInternational",2012
+352,351,"Xinjun Zhang",40,0.13,5.33,-4.85,1.2,"PresidentsCupInternational",2012
+353,353,"Rafael Romero",40,0.13,5.31,-3.86,6,"PresidentsCupInternational",2012
+354,354,"Toru Suzuki",43,0.13,5.66,-9.74,2.08,"PresidentsCupInternational",2012
+355,355,"Park Dokyu",40,0.13,5.2,-7.74,NA,"PresidentsCupInternational",2012
+356,356,"Jamie Arnold",40,0.13,5.18,-2.56,3.44,"PresidentsCupInternational",2012
+357,358,"Peter OMalley",40,0.13,5.09,-3.17,4.59,"PresidentsCupInternational",2012
+358,357,"Paulo Pinto",40,0.13,5.09,-6.26,1.44,"PresidentsCupInternational",2012
+359,360,"Jacques Blaauw",40,0.13,5.05,-2.91,4.89,"PresidentsCupInternational",2012
+360,359,"Hur Inhoi",40,0.13,5.02,-5.83,3.8,"PresidentsCupInternational",2012
+361,361,"Rahil Gangjee",52,0.12,6.5,-8.34,8.41,"PresidentsCupInternational",2012
+362,362,"Wallie Coetsee",40,0.12,4.99,-2.5,2.73,"PresidentsCupInternational",2012
+363,364,"Jinjae Byun",40,0.12,4.98,-0.5,5.48,"PresidentsCupInternational",2012
+364,363,"Danny Sahl",40,0.12,4.9,-5.69,2.64,"PresidentsCupInternational",2012
+365,365,"Warren Abery",40,0.12,4.88,-13.08,3.86,"PresidentsCupInternational",2012
+366,366,"Daniel Gaunt",52,0.12,6.32,-25.79,3.74,"PresidentsCupInternational",2012
+367,369,"Brody Ninyette",40,0.12,4.84,-1.04,5.88,"PresidentsCupInternational",2012
+368,367,"Mithun Perera",40,0.12,4.81,-1.92,6.73,"PresidentsCupInternational",2012
+369,370,"Daniel Nisbet",40,0.12,4.8,0,4.8,"PresidentsCupInternational",2012
+370,368,"Sung Lee",40,0.12,4.79,-10.06,4.52,"PresidentsCupInternational",2012
+371,373,"Mu Hu",40,0.12,4.68,-1.17,5.86,"PresidentsCupInternational",2012
+372,371,"Ryan Haller",40,0.12,4.66,-7.14,1.34,"PresidentsCupInternational",2012
+373,374,"Darryn Lloyd",40,0.12,4.66,-2.82,3.33,"PresidentsCupInternational",2012
+374,372,"Kiyoshi Murota",40,0.12,4.66,-3.5,4.27,"PresidentsCupInternational",2012
+375,376,"Stephen Leaney",40,0.12,4.6,-2.5,3.51,"PresidentsCupInternational",2012
+376,377,"Fernando Mechereffe",40,0.11,4.58,-0.47,5.05,"PresidentsCupInternational",2012
+377,375,"Neil Schietekat",40,0.11,4.56,-8.5,3.85,"PresidentsCupInternational",2012
+378,379,"Anton Haig",40,0.11,4.56,-2.37,4.9,"PresidentsCupInternational",2012
+379,378,"Michael Wright",40,0.11,4.55,-3.53,3.69,"PresidentsCupInternational",2012
+380,380,"Roberto Coceres",40,0.11,4.45,-3.52,1.88,"PresidentsCupInternational",2012
+381,382,"Satoru Hirota",40,0.11,4.43,-3.51,4.11,"PresidentsCupInternational",2012
+382,383,"Makoto Inoue",40,0.11,4.42,-6.35,5.4,"PresidentsCupInternational",2012
+383,381,"Terry Pilkadaris",40,0.11,4.41,-8.22,1.34,"PresidentsCupInternational",2012
+384,384,"Mao Chang Sung",40,0.11,4.39,-1.36,3.92,"PresidentsCupInternational",2012
+385,386,"Grant Muller",40,0.11,4.29,-3.19,3.27,"PresidentsCupInternational",2012
+386,387,"Unho Park",40,0.11,4.28,-6.49,3.1,"PresidentsCupInternational",2012
+387,385,"Taigen Tsumagari",41,0.11,4.36,-7.32,NA,"PresidentsCupInternational",2012
+388,389,"PH McIntyre",40,0.11,4.2,0,4.2,"PresidentsCupInternational",2012
+389,388,"Tran Le Duynhat",40,0.1,4.2,-0.19,4.39,"PresidentsCupInternational",2012
+390,390,"Michael Long",40,0.1,4.11,-4.7,3.76,"PresidentsCupInternational",2012
+391,391,"Andrew Martin",40,0.1,4.08,-2.47,6,"PresidentsCupInternational",2012
+392,394,"Thammanoon Sriroj",40,0.1,4.06,-1.64,3.78,"PresidentsCupInternational",2012
+393,392,"Brent McCullough",40,0.1,4.03,-4.76,NA,"PresidentsCupInternational",2012
+394,395,"Dohoon Kim",40,0.1,4.01,-1.95,3.6,"PresidentsCupInternational",2012
+395,393,"Lyle Rowe",40,0.1,4.01,-3.2,4.31,"PresidentsCupInternational",2012
+396,396,"Teboho Sefatsa",40,0.1,4,0,4,"PresidentsCupInternational",2012
+397,397,"Yosuke Tsukada",40,0.1,3.93,-0.11,4.04,"PresidentsCupInternational",2012
+398,398,"Panawat Muenlek",40,0.1,3.87,-2.15,2.45,"PresidentsCupInternational",2012
+399,402,"Piya Swangarunporn",40,0.1,3.85,-5.24,3.57,"PresidentsCupInternational",2012
+400,401,"Jae Ho Kim",40,0.1,3.84,-0.14,3.98,"PresidentsCupInternational",2012
+401,404,"Richard Lee",40,0.1,3.84,-1.97,3.84,"PresidentsCupInternational",2012
+402,403,"Marcus Cain",40,0.09,3.8,-2.03,2.99,"PresidentsCupInternational",2012
+403,400,"TC Wang",40,0.09,3.8,-3.68,1.3,"PresidentsCupInternational",2012
+404,399,"Peter Karmis",52,0.09,4.92,-16.25,2.5,"PresidentsCupInternational",2012
+405,405,"Titch Moore",40,0.09,3.78,-0.79,4.52,"PresidentsCupInternational",2012
+406,406,"Udorn Duangdecha",40,0.09,3.78,-9.69,3.78,"PresidentsCupInternational",2012
+407,408,"Lian Wei Zhang",40,0.09,3.74,-2.32,2.8,"PresidentsCupInternational",2012
+408,409,"Carlos Franco",40,0.09,3.73,-2.63,2.31,"PresidentsCupInternational",2012
+409,410,"Shankar Das",40,0.09,3.69,-1.73,5.41,"PresidentsCupInternational",2012
+410,407,"Manav Jaini",40,0.09,3.62,-10.27,1.68,"PresidentsCupInternational",2012
+411,412,"Steve Dartnall",40,0.09,3.62,-2.43,2.19,"PresidentsCupInternational",2012
+412,414,"Jorge Fernandez Valdes",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2012
+413,415,"Glenn Joyner",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2012
+414,416,"Marcelo Rozo",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2012
+415,417,"Brady Watt",40,0.09,3.6,0,3.6,"PresidentsCupInternational",2012
+416,411,"JG Claassen",40,0.09,3.56,-8.28,2.1,"PresidentsCupInternational",2012
+417,413,"Theunis Spangenberg",40,0.09,3.49,-8.97,2.73,"PresidentsCupInternational",2012
+418,418,"Adam Bland",40,0.09,3.48,-13.26,2.1,"PresidentsCupInternational",2012
+419,423,"Wisut Artjanawat",40,0.09,3.47,-0.16,3.63,"PresidentsCupInternational",2012
+420,420,"Atthaphon Prathummanee",40,0.09,3.46,-4.57,1.22,"PresidentsCupInternational",2012
+421,422,"Joo Hewng Chul",40,0.09,3.45,-1.64,3.5,"PresidentsCupInternational",2012
+422,421,"Sebastian Saavedra",40,0.09,3.44,-2.3,3.72,"PresidentsCupInternational",2012
+423,419,"Josh Cunliffe",40,0.09,3.41,-7.56,2.58,"PresidentsCupInternational",2012
+424,425,"Jae Han Chun",40,0.08,3.39,-0.11,3.5,"PresidentsCupInternational",2012
+425,427,"Nicolas Geyger",40,0.08,3.35,-0.63,3.98,"PresidentsCupInternational",2012
+426,424,"Rafael Gomez",40,0.08,3.34,-4.28,NA,"PresidentsCupInternational",2012
+427,426,"Francisco Cerda",40,0.08,3.33,-2.67,NA,"PresidentsCupInternational",2012
+428,429,"Tatsunori Nukaga",40,0.08,3.32,-1.43,3,"PresidentsCupInternational",2012
+429,434,"Tommy Nakajima",40,0.08,3.32,0,3.32,"PresidentsCupInternational",2012
+430,430,"Quincy Quek",40,0.08,3.32,-2.53,1.51,"PresidentsCupInternational",2012
+431,433,"Armando Favela",40,0.08,3.3,-0.06,3.36,"PresidentsCupInternational",2012
+432,435,"Bruce McDonald",40,0.08,3.3,0,3.3,"PresidentsCupInternational",2012
+433,428,"Oscar Serna",40,0.08,3.29,-3.49,3.85,"PresidentsCupInternational",2012
+434,432,"Charl Coetzee",40,0.08,3.27,-3.14,3.09,"PresidentsCupInternational",2012
+435,431,"Matthew Giles",41,0.08,3.34,-3.89,NA,"PresidentsCupInternational",2012
+436,439,"Byeong Hun An",40,0.08,3.22,-0.14,3.36,"PresidentsCupInternational",2012
+437,437,"Brandon Pieters",40,0.08,3.22,-3.07,1.73,"PresidentsCupInternational",2012
+438,436,"Taekyu Lee",40,0.08,3.21,-4.18,1.23,"PresidentsCupInternational",2012
+439,438,"DO NOT USE Siwoo",40,0.08,3.19,-1.87,3.5,"PresidentsCupInternational",2012
+440,440,"Dong Seop Maeng",40,0.08,3.18,-1.68,2.46,"PresidentsCupInternational",2012
+441,441,"Ashok Kumar",40,0.08,3.18,-2.9,4.69,"PresidentsCupInternational",2012
+442,443,"Kunal Bhasin",40,0.08,3.12,-3.84,1.68,"PresidentsCupInternational",2012
+443,442,"Lee Dong Min",40,0.08,3.12,-4.11,1.24,"PresidentsCupInternational",2012
+444,444,"Hung Chienyao",40,0.08,3.12,-0.1,3.22,"PresidentsCupInternational",2012
+445,447,"Michael Hollick",40,0.08,3.07,-0.68,3.75,"PresidentsCupInternational",2012
+446,446,"Seong Yong Kim",40,0.08,3.07,-1.54,2.6,"PresidentsCupInternational",2012
+447,445,"Tomokazu Yoshinaga",40,0.08,3.05,-5.02,NA,"PresidentsCupInternational",2012
+448,449,"Mahal Pearce",40,0.08,3.05,-1.75,1.85,"PresidentsCupInternational",2012
+450,451,"Gustavo Acosta",40,0.07,2.97,-2.04,1.8,"PresidentsCupInternational",2012
+451,452,"Chien Soon Lu",40,0.07,2.96,-0.96,1.82,"PresidentsCupInternational",2012
+452,450,"Federico Damus",40,0.07,2.97,-2.07,1.44,"PresidentsCupInternational",2012
+453,455,"Wang Jeunghun",40,0.07,2.96,0,2.96,"PresidentsCupInternational",2012
+454,454,"Sebastian Ma Lean",40,0.07,2.96,-0.04,3,"PresidentsCupInternational",2012
+455,456,"Leigh Deagan",40,0.07,2.89,-2.46,NA,"PresidentsCupInternational",2012
+456,448,"Joaquin Estevez",40,0.07,2.89,-9.51,NA,"PresidentsCupInternational",2012
+457,461,"Lee Junghwan",40,0.07,2.88,-0.32,3.2,"PresidentsCupInternational",2012
+458,463,"Clint Rice",40,0.07,2.88,0,2.88,"PresidentsCupInternational",2012
+459,457,"Albert Pistorius",40,0.07,2.86,-3.34,2.98,"PresidentsCupInternational",2012
+460,460,"Ryan Williams",40,0.07,2.85,-2.14,1.71,"PresidentsCupInternational",2012
+461,458,"Wes Heffernan",40,0.07,2.85,-3.26,1.2,"PresidentsCupInternational",2012
+462,459,"Kwanchai Tannin",40,0.07,2.85,-5.74,1.34,"PresidentsCupInternational",2012
+463,NA,"Chris Campbell",40,0.07,2.83,-5.45,2.52,"PresidentsCupInternational",2012
+464,464,"Anthony Michael",40,0.07,2.81,-7.04,3.3,"PresidentsCupInternational",2012
